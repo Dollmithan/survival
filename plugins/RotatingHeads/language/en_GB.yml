@@ -1,0 +1,34 @@
+prefix: '<GRADIENT:f2f2f2>RotatingHeads</GRADIENT:cfcfcf> &8| '
+help-usage: '&fPlease use: &7/rheads help'
+no-perms: '&fYou don''t have permissions to do this'
+help:
+- <GRADIENT:f2f2f2>ROTATINGHEADS</GRADIENT:cfcfcf> <SOLID:ffffff>&oREBORN &8 | &7
+  Help!
+- '&r'
+- '&7- &f/rotatingheads help &7(Opens help menu)'
+- '&7- &f/rotatingheads list &7(Heads list)'
+- '&7- &f/rotatingheads create [name] &7(Create a new head)'
+- '&7- &f/rotatingheads remove [name] &7(Remove a head)'
+- '&7- &f/rotatingheads movehere [name] &7(Move a head to your position)'
+- '&7- &f/rotatingheads teleport [name] &7(Teleports you to head)'
+- '&7- &f/rotatingheads reload &7(Reload configuration)'
+list:
+  header:
+  - '&7Heads list:'
+  empty: '&cYou haven''t created any heads :c'
+  format: '&7- &f%name%'
+create:
+  successful: '&fHead &7%head% &fwas successfully created'
+  exist: '&fHead &7%head% &fallready exists!'
+remove:
+  successful: '&fHead &7%head% &fwas successfully removed!'
+  exist: '&fHead &7%head% &7doesn''t exist!'
+movehere:
+  successful: '&fHead &7%head% &fwas successfully moved to your location!'
+  exist: '&fHead &7%head% &fdoens''t exist!'
+teleport:
+  successful: '&7Successfully teleported to &7%head%&f!'
+  exist: '&fHead &7%head% &fdoens''t exist!'
+reload:
+  successful: '&fConfiguration was successfully reloaded.'
+temp-head-safe: '&fYou cannot edit the temporary head!'

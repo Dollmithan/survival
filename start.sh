@@ -1,0 +1,1 @@
+java -Xms13G -Xmx13G -XX:+UseG1GC -jar paper.jar nogui

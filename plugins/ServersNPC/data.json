@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "location": {
+      "world": "survivalspawn",
+      "x": 90.5,
+      "y": 106.0,
+      "z": 77.5,
+      "yaw": -112.489136,
+      "pitch": 28.95433
+    },
+    "npcType": "VILLAGER",
+    "hologramLines": [
+      "&eTrader"
+    ],
+    "clickActions": [
+      {
+        "actionType": "CONSOLE",
+        "clickType": "DEFAULT",
+        "action": "shop %player% trader",
+        "delay": 0
+      },
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "shop trader",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 5,
+    "hologramHeight": 1.0,
+    "skin": "",
+    "signature": "",
+    "location": {
+      "world": "survivalspawn",
+      "x": 88.5,
+      "y": 106.0,
+      "z": 69.5,
+      "yaw": -51.68282,
+      "pitch": -5.647464
+    },
+    "npcType": "IRON_GOLEM",
+    "hologramLines": [
+      "&eArmorer"
+    ],
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "gui open armor",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  }
+]

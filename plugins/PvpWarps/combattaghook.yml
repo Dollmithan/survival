@@ -1,0 +1,9 @@
+# Hooks into combattagplus and adds extra options!
+# 
+# Whether this feature is enabled or not
+
+enabled: true
+armor_blocked: true
+log_blocked: false
+repair_blocked: true
+log_repair: false

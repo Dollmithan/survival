@@ -1,0 +1,594 @@
+id: armor
+inv:
+  size: 54
+  alias: armor
+  id: armor
+  title: §e§lULTRAMC ARMOR
+  targetPlayerOption: DISABLED
+  items:
+    '0':
+      '-6285735467096497328':
+        item:
+          type: BOOK
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e§lULTRAMC ARMOR
+            lore:
+            - §7All the different armor you can get!
+            - ''
+            - §2Epic Armor §fis a special set of armor
+            - §fit acts like diamond armor!
+            - §fDifference is customisation, and luxury!
+            - §fEpic Armor is also lighter than diamond, meaning it will not slow
+              you down!
+            - ''
+            - §e§lRECIPES §7(/recipes)
+            - §e§lSTORE §7(/store)
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            - HIDE_DESTROYS
+            - HIDE_PLACED_ON
+            - HIDE_POTION_EFFECTS
+        leftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+    '1':
+      '-6422011194544523788':
+        item:
+          type: STAINED_GLASS_PANE
+    '2':
+      '-1929699468715450022':
+        item:
+          type: STAINED_GLASS_PANE
+    '3':
+      '2259581458135487211':
+        item:
+          type: STAINED_GLASS_PANE
+    '4':
+      '-6936264748770366594':
+        item:
+          type: STAINED_GLASS_PANE
+    '5':
+      '3402431068248285783':
+        item:
+          type: STAINED_GLASS_PANE
+    '6':
+      '4279205021808290932':
+        item:
+          type: STAINED_GLASS_PANE
+    '7':
+      '-3649922084470634375':
+        item:
+          type: STAINED_GLASS_PANE
+    '8':
+      '7383166778420003726':
+        shiftrightaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+          commands:
+          - gui open recipes
+        item:
+          type: WORKBENCH
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e§lCRAFTING RECIPES
+            lore:
+            - §eClick me to view the crafting recipes!
+            enchants:
+              DAMAGE_ALL: 1
+            ItemFlags:
+            - HIDE_ENCHANTS
+        leftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+          commands:
+          - gui open recipes
+        shiftleftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+          commands:
+          - gui open recipes
+        middleaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+          commands:
+          - gui open recipes
+        rightaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+          commands:
+          - gui open recipes
+    '9':
+      '8033537296326217212':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '10':
+      '-5621904765787854906':
+        item:
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2Epic Helmet
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQrCMBREB1tKWi2IC4/hDQQLbhSrC+0Bov22AZNI8nsLj+MBrSJKwYKzG5h5vASIMcmYnTo2TLkt1VmR8wmAQQBRFKtlbj0Dw3GA+Fk3JNs+MvMIUaZtY3gh8IpAuL9YRliTLAXSD3YrNSGtyJBTp5l02roWtruSk6yseX9/rNBREOuuwv32VcA/CtMO/GCbqjbkfZ9Lzxx4AL8PLfk2AQAA
+        leftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+    '11':
+      '-603680100903465268':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '12':
+      '-4087332710755068334':
+        item:
+          type: IRON_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Helmet
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQrCMBREB1tKWi2IC4/hDQQLbhSrC+0Bov22AZNI8nsLj+MBrSJKwYKzG5h5vASIMcmYnTo2TLkt1VmR8wmAQQBRFKtlbj0Dw3GA+Fk3JNs+MvMIUaZtY3gh8IpAuL9YRliTLAXSD3YrNSGtyJBTp5l02roWtruSk6yseX9/rNBREOuuwv32VcA/CtMO/GCbqjbkfZ9Lzxx4AL8PLfk2AQAA
+        leftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+    '13':
+      '7143483929023560763':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '14':
+      '4347433854462669237':
+        item:
+          type: CHAINMAIL_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Helmet
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQrCMBREB1tKWi2IC4/hDQQLbhSrC+0Bov22AZNI8nsLj+MBrSJKwYKzG5h5vASIMcmYnTo2TLkt1VmR8wmAQQBRFKtlbj0Dw3GA+Fk3JNs+MvMIUaZtY3gh8IpAuL9YRliTLAXSD3YrNSGtyJBTp5l02roWtruSk6yseX9/rNBREOuuwv32VcA/CtMO/GCbqjbkfZ9Lzxx4AL8PLfk2AQAA
+    '15':
+      '-5117833952066090522':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '16':
+      '7901584251201800035':
+        item:
+          type: GOLD_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Helmet
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQrCMBREB1tKWi2IC4/hDQQLbhSrC+0Bov22AZNI8nsLj+MBrSJKwYKzG5h5vASIMcmYnTo2TLkt1VmR8wmAQQBRFKtlbj0Dw3GA+Fk3JNs+MvMIUaZtY3gh8IpAuL9YRliTLAXSD3YrNSGtyJBTp5l02roWtruSk6yseX9/rNBREOuuwv32VcA/CtMO/GCbqjbkfZ9Lzxx4AL8PLfk2AQAA
+        leftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+    '17':
+      '-2234168292086604205':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '18':
+      '-8206900621464047246':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '19':
+      '-3436808050408927827':
+        item:
+          type: LEATHER_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2Epic Chestplate
+            lore:
+            - '§eDurability: 528/528'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/+NiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmbgCA31dPHNLy5hYOBOYGbgBHF9UhOBfN55b9kY2Bxz80vzShwUGMCAg4ElOCe/hIE1OSO1uISDgRdurl9ibioDb3pqXmpRZrJeYlFufhHQNP+C1KLEksz8PKhmLKoYUNzAHoDiBp5jLQg3MBDlBjEU00PyS9Mz8lKLi3E5BodyBgYABBXNJzgBAAA=
+    '20':
+      '6315221949662921560':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '21':
+      '-5630292192122506804':
+        item:
+          type: IRON_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Chestplate
+            lore:
+            - '§eDurability: 528/528'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/+NiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmbgCA31dPHNLy5hYOBOYGbgBHF9UhOBfN55b9kY2Bxz80vzShwUGMCAg4ElOCe/hIE1OSO1uISDgRdurl9ibioDb3pqXmpRZrJeYlFufhHQNP+C1KLEksz8PKhmLKoYUNzAHoDiBp5jLQg3MBDlBjEU00PyS9Mz8lKLi3E5BodyBgYABBXNJzgBAAA=
+    '22':
+      '1354249071093547802':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '23':
+      '-1502558199040750226':
+        item:
+          type: CHAINMAIL_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Chestplate
+            lore:
+            - '§eDurability: 528/528'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/+NiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmbgCA31dPHNLy5hYOBOYGbgBHF9UhOBfN55b9kY2Bxz80vzShwUGMCAg4ElOCe/hIE1OSO1uISDgRdurl9ibioDb3pqXmpRZrJeYlFufhHQNP+C1KLEksz8PKhmLKoYUNzAHoDiBp5jLQg3MBDlBjEU00PyS9Mz8lKLi3E5BodyBgYABBXNJzgBAAA=
+    '24':
+      '623860620530553547':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '25':
+      '2300984451120536881':
+        item:
+          type: GOLD_CHESTPLATE
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Chestplate
+            lore:
+            - '§eDurability: 528/528'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/+NiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmbgCA31dPHNLy5hYOBOYGbgBHF9UhOBfN55b9kY2Bxz80vzShwUGMCAg4ElOCe/hIE1OSO1uISDgRdurl9ibioDb3pqXmpRZrJeYlFufhHQNP+C1KLEksz8PKhmLKoYUNzAHoDiBp5jLQg3MBDlBjEU00PyS9Mz8lKLi3E5BodyBgYABBXNJzgBAAA=
+    '26':
+      '4442331435858307177':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '27':
+      '5933183619145206548':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '28':
+      '-6291061698552946159':
+        item:
+          type: LEATHER_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2Epic Leggings
+            lore:
+            - '§eDurability: 495/495'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQqCUBRFLymilpMGES2hQWtIaBJkDcoF/OplH/S/+P+5h3YS7TKLKISE7uzCvYcTAxGGqYjV+1oo46M+abIuBtDzEOb5cpGxE6AvHqJnXZFq+uB2DxCkFddG5mO8EsLflizwSypciOSDXauKkBRkyOrDTNmKbQPbXMgq0Wze3x8rtBUmLYXr1P8q4B+FUQu+47o4G3Kuy6VjDjwATKzl+TYBAAA=
+    '29':
+      '4485316603379570491':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '30':
+      '-3122601925983482200':
+        item:
+          type: IRON_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Leggings
+            lore:
+            - '§eDurability: 495/495'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQqCUBRFLymilpMGES2hQWtIaBJkDcoF/OplH/S/+P+5h3YS7TKLKISE7uzCvYcTAxGGqYjV+1oo46M+abIuBtDzEOb5cpGxE6AvHqJnXZFq+uB2DxCkFddG5mO8EsLflizwSypciOSDXauKkBRkyOrDTNmKbQPbXMgq0Wze3x8rtBUmLYXr1P8q4B+FUQu+47o4G3Kuy6VjDjwATKzl+TYBAAA=
+    '31':
+      '-6563506571442954212':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '32':
+      '3871623960615694447':
+        item:
+          type: CHAINMAIL_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Leggings
+            lore:
+            - '§eDurability: 495/495'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQqCUBRFLymilpMGES2hQWtIaBJkDcoF/OplH/S/+P+5h3YS7TKLKISE7uzCvYcTAxGGqYjV+1oo46M+abIuBtDzEOb5cpGxE6AvHqJnXZFq+uB2DxCkFddG5mO8EsLflizwSypciOSDXauKkBRkyOrDTNmKbQPbXMgq0Wze3x8rtBUmLYXr1P8q4B+FUQu+47o4G3Kuy6VjDjwATKzl+TYBAAA=
+    '33':
+      '577146073223143938':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '34':
+      '-748231890273167790':
+        item:
+          type: GOLD_LEGGINGS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Leggings
+            lore:
+            - '§eDurability: 495/495'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQqCUBRFLymilpMGES2hQWtIaBJkDcoF/OplH/S/+P+5h3YS7TKLKISE7uzCvYcTAxGGqYjV+1oo46M+abIuBtDzEOb5cpGxE6AvHqJnXZFq+uB2DxCkFddG5mO8EsLflizwSypciOSDXauKkBRkyOrDTNmKbQPbXMgq0Wze3x8rtBUmLYXr1P8q4B+FUQu+47o4G3Kuy6VjDjwATKzl+TYBAAA=
+    '35':
+      '6408948130306183233':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '36':
+      '-6095948316151380129':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '37':
+      '-6296258392160305999':
+        item:
+          type: LEATHER_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2Epic Boots
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OMQrCQBREBxPCJprGwsJDeAYDNkKihQbrVX/igtmV3b+1p/AY3tEoogQMON3AzOMlQIxxxmzV3jMV5qgqRdYlAAYBRFkuF4VxDAynAeJnzUm2Pb3eI0RZY7zmucArAuHmbBhhRcQC6Qe7kg0hrUmTVYeZtI2xLWx9IStZGf3+/lihoyB2HYXRLf8q4B+FSQe+Nb4+aXKuz6VnDjwANM3L1jYBAAA=
+    '38':
+      '2242649440280094062':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '39':
+      '1396383018862180916':
+        item:
+          type: IRON_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Boots
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OMQrCQBREBxPCJprGwsJDeAYDNkKihQbrVX/igtmV3b+1p/AY3tEoogQMON3AzOMlQIxxxmzV3jMV5qgqRdYlAAYBRFkuF4VxDAynAeJnzUm2Pb3eI0RZY7zmucArAuHmbBhhRcQC6Qe7kg0hrUmTVYeZtI2xLWx9IStZGf3+/lihoyB2HYXRLf8q4B+FSQe+Nb4+aXKuz6VnDjwANM3L1jYBAAA=
+    '40':
+      '8091655188442050368':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '41':
+      '-5699256061276439699':
+        item:
+          type: CHAINMAIL_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Boots
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OMQrCQBREBxPCJprGwsJDeAYDNkKihQbrVX/igtmV3b+1p/AY3tEoogQMON3AzOMlQIxxxmzV3jMV5qgqRdYlAAYBRFkuF4VxDAynAeJnzUm2Pb3eI0RZY7zmucArAuHmbBhhRcQC6Qe7kg0hrUmTVYeZtI2xLWx9IStZGf3+/lihoyB2HYXRLf8q4B+FSQe+Nb4+aXKuz6VnDjwANM3L1jYBAAA=
+    '42':
+      '8035520370932957957':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '43':
+      '8195154934820023324':
+        item:
+          type: GOLD_BOOTS
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Boots
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OMQrCQBREBxPCJprGwsJDeAYDNkKihQbrVX/igtmV3b+1p/AY3tEoogQMON3AzOMlQIxxxmzV3jMV5qgqRdYlAAYBRFkuF4VxDAynAeJnzUm2Pb3eI0RZY7zmucArAuHmbBhhRcQC6Qe7kg0hrUmTVYeZtI2xLWx9IStZGf3+/lihoyB2HYXRLf8q4B+FSQe+Nb4+aXKuz6VnDjwANM3L1jYBAAA=
+        leftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          closeInv: false
+    '44':
+      '-4821805242941496521':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '45':
+      '-5917728049013568323':
+        item:
+          type: STAINED_GLASS_PANE
+    '46':
+      '5993898546852151047':
+        item:
+          type: LEATHER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Leather armor
+            lore:
+            - §7This is the default epic armor type!
+            - §7It is craftable by players.
+    '47':
+      '-1924798082659247971':
+        item:
+          type: STAINED_GLASS_PANE
+    '48':
+      '641085743881598752':
+        item:
+          type: IRON_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §f§lIron armor
+            lore:
+            - §7This is §2Epic armor §7but iron!
+            - §7You can only get this set in the daily crate.
+    '49':
+      '-8666940580262521820':
+        item:
+          type: STAINED_GLASS_PANE
+    '50':
+      '-3479989636161854193':
+        item:
+          type: FIREBALL
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §7§lChainmail Armor
+            lore:
+            - §7This is §2Epic armor §7but chainmail!
+            - §7This set can only be acquired by donating!
+            - ''
+            - '§ePrice: 0.50Gel per set'
+    '51':
+      '-8625327005008567021':
+        item:
+          type: STAINED_GLASS_PANE
+    '52':
+      '1730835762381312992':
+        item:
+          type: GOLD_INGOT
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e§lGold Armor
+            lore:
+            - §eThis is §2Epic armor §ebut gold!
+            - §eThis set can only be acquired by donating!
+            - ''
+            - '§ePrice: 1Gel per set'
+    '53':
+      '-4295904803327419908':
+        item:
+          type: STAINED_GLASS_PANE

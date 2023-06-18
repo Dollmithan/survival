@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.40.106.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685374892775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685376765064
+  login: 1685376747755
+money: '0'
+last-account-name: N1_Luka
+logoutlocation:
+  world: 2acc349f-2a98-4171-b56e-e89b924a0ed7
+  world-name: desteria
+  x: -129.64770671216115
+  y: 115.0
+  z: -228.7156879694684
+  yaw: -194.9839630126953
+  pitch: -28.290903091430664
+lastlocation:
+  world: 3be2a895-3187-4ea8-bf6e-c4d6cd7c18f6
+  world-name: world
+  x: 228.5710746580057
+  y: 66.0
+  z: 179.61085922741293
+  yaw: -150.55697631835938
+  pitch: 43.375160217285156

@@ -1,0 +1,90 @@
+#If you set this to true the whitelist will be a blacklist.
+reverse-suggestionsWhitelist: false
+
+#Insert Here All Commands you want to show in the command suggestions. (Without "/")
+#Only the commands that are included in the player's command list will be whitelisted.
+#ALERT!!! insert only lowercase letters.
+suggestionsWhitelist:
+  - minecraft:tell
+  - tell
+
+#Insert Here All Commands you want to block. (Without "/")
+blockedCommands:
+  #The commands in the users section are blocked only to the players without the permission.
+  users:
+    #Bypass permission.
+    permission: 'pluginhider.bypassbc'
+    #Type here the message displayed if a player runs a blocked command ('&' Color codes are enabled)
+    #To disable set it to 'none'.
+    message: '§cThis §ccommand §cdoesn''t §cexist!'
+    #Use only lowercase characters. (You can use spaces to block only some sub-commands)
+    commands:
+      - example1
+      - example2
+      - example3
+  #The commands in the everyone section are blocked to everyone and can be executed only by console.
+  everyone:
+    #Type here the message displayed if someone runs a blocked command ('&' Color codes are enabled)
+    #To disable set it to 'none'.
+    message: '§cThis §ccommand §cdoesn''t §cexist!'
+    #Use only lowercase characters. (You can use spaces to block only some sub-commands)
+    commands:
+      - example4
+      - example5
+      - example6
+
+#if this is false the plugin blocks only the tab completions can show your plugins, if it is true the plugin blocks all the tab completions.
+#The tab completions blocker works only from 1.8 to 1.12, over these versions use the suggestionsWhitelist.
+blockAllTabCompletions: true
+
+#Here you can add message replacements to hide the non-customizable plugin messages. (You can add an infinite number of replacements)
+#Guide: You can use color codes and special characters and the message is case sensitive.
+#This feature is disabled by default, for enabling it change enable-messageReplacements to true.
+enable-messageReplacements: false
+messageReplacements:
+  replaceOne:
+    message: '&aString'
+    replacement: '&a&lAnotherString'
+  replaceTwo:
+    message: '&bString2'
+    replacement: '&b&lAnotherString2'
+  replaceThree:
+    message: '&cString3'
+    replacement: '&c&lAnotherString3'
+
+#Message sent to players with defaultBlockedCommands bypass.
+#To disable set it to 'none'.
+allowMessage: 'none'
+#Message sent to players without defaultBlockedCommands bypass.
+#To disable set it to 'none'.
+denyMessage: '§cThis §ccommand §cdoesn''t §cexist!'
+#The default blocked commands, ALERT! touch it only if you know what are you doing.
+defaultBlockedCommands:
+  - 'pl'
+  - 'plugins'
+  - 'ver'
+  - 'version'
+  - 'about'
+  - 'icanhasbukkit'
+  - 'bukkit:?'
+  - 'bukkit:pl'
+  - 'bukkit:plugins'
+  - 'bukkit:about'
+  - 'bukkit:help'
+  - 'bukkit:ver'
+  - 'bukkit:version'
+  - 'minecraft:help'
+  - 'minecraft:me'
+  - '?'
+  - 'help'
+  - 'mv'
+  - 'tell'
+  - 'execute'
+  - 'bungee'
+  - 'flamecord'
+  - 'ef'
+  - 'exploitfixer'
+  - 'deluxehub'
+  - 'dh'
+  - 'multiversecore'
+  - 'grim'

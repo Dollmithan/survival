@@ -1,0 +1,41 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2023-05-27 19:49:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-05-27 19:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-05-27 19:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "creeper": "2023-05-27 19:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2023-05-27 19:50:54 +0000",
+      "spider": "2023-05-27 19:59:57 +0000",
+      "creeper": "2023-05-27 19:50:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-05-27 19:48:06 +0000",
+      "roofed_forest": "2023-05-27 19:50:19 +0000"
+    },
+    "done": false
+  }
+}

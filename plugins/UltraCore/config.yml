@@ -1,0 +1,10 @@
+# 
+# player drops enabled or disabled! 
+
+drops_enabled_death: true
+bypass_permission: ultracore.bypassdrops
+drops_enabled_hand: true
+chest_world: s
+chest_coordintes_x: 1.0
+chest_coordintes_y: 1.0
+chest_coordintes_z: 1.0

@@ -1,0 +1,27 @@
+settings:
+  view-distance: 25
+  view-permission: none
+  animations:
+  - Rotate(direction=LEFT,speed=5)
+  - UpDown(value=0.025,jumps=20,smooth=true)
+  small: false
+  location: survivalspawn(101.95730960709564,105.0,77.85601860839897)
+head:
+  type: ITEM
+  value: SKULL_ITEM(amount=1,skin=goldblock)
+name:
+  offset: 0.25
+  space: 0.25
+  lines:
+  - '&e&lULTRAMC STORE &7(/store)'
+  - ''
+  - '&eHey &3%player%&e!'
+  - '&eDid you know you can donate and recieve massive perks?'
+  - '&eClick me to open the store!'
+  - ''
+  - '&eDiscord server: &fhttps://dc.ultramc.online'
+particles:
+- REDSTONE(type=AnimatedCircle,points=240,radius=1.0,color=0:255:0,size=1.6,offset=0:1.8:0,direction=RIGHT)
+- REDSTONE(type=AnimatedCircle,points=240,radius=1.0,color=0:255:0,size=1.6,offset=0:1.8:0,direction=LEFT)
+actions:
+- console-cmd(value=gui openfor %player% store,cooldown=1)

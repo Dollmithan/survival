@@ -1,0 +1,17 @@
+#See https://github.com/Nokorbis/ar-command-signs/wiki/Custom-messages for more information about this file
+#Sat May 27 18:10:01 UTC 2023
+creation.already_configured=§cThis block already has a configuration.
+error.break_attempt_failed=§4This block is a command block. You must remove the commands before deleting it.
+success.block_copied=§aBlock properly copied.
+usage.disabled=§cThis command sign is disabled.
+usage.execution_cancelled=§cCommand sign execution cancelled.
+creation.already_positioned=§cThis command block already has a position.
+howto.click_confirm_deletion=§6Block selected. Click on it again to confirm deletion.
+error.requirements_check=§4An error occurred while checking requirements.
+error.already_running_task=§4You are already running that command block.
+usage.execution_timer_reset=§cCommand sign execution's timer reset.
+usage.timer_delayed=§dThis command sign execution is delayed by a timer. Please wait {TIME} seconds.
+creation.block_set=§aBlock set to command block configuration.
+error.invalid_block_abort=§4The selected block is NOT valid, aborting...
+howto.click_to_paste=§6Block copied. Click on another block to paste the configuration.
+success.command_deleted=§aCommand block properly deleted.

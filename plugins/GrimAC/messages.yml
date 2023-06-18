@@ -1,0 +1,48 @@
+# \u00BB is » (double >>), ANSI and UTF-8 interpret this differently... you may even see ? due to this
+prefix: "&c[GrimAC]"
+
+alerts-enabled: "%prefix% &3Alerts enabled"
+alerts-disabled: "%prefix% &3Alerts disabled"
+client-brand-format: "%prefix% &3%player% joined using f%brand%"
+console-specify-target: "%prefix% &cYou must specify a target as the console!"
+player-not-found: "%prefix% &3Player is exempt or offline!"
+player-not-this-server: "%prefix% &3Player is not on this server!"
+spectate-return: "\n%prefix% &3Click here to return to previous location\n"
+cannot-spectate-return: "%prefix% &3You can only do this after spectating a player"
+cannot-run-on-self: "%prefix% &3You cannot use this command on yourself!"
+upload-log: "%prefix% &3Uploaded debug to: %url%"
+upload-log-start: "%prefix% &3Uploading log... please wait"
+upload-log-not-found: "%prefix% &3enable to find that log"
+upload-log-upload-failure: "%prefix% &3Something went wrong while uploading this log, see console for more info"
+
+# Valid placeholders:
+# %prefix%
+# %player%
+# %check_name%
+# %vl% - violations
+# %verbose% - extra information from the check such as offsets, not all checks will add information
+alerts-format: "%prefix% &f%player% &cfailed &f%check_name% &f(x&c%vl%&f) &8%verbose%"
+alerts-format-proxy: "%prefix% &f[&cproxy&f] &f%player% &cfailed &f%check_name% &f(x&c%vl%&f)"
+
+profile:
+  - "&c======================"
+  - "%prefix% &bProfile for &f%player%"
+  - "&cPing: &f%ping%"
+  - "&cVersion: &f%version%"
+  - "&cClient Brand: &f%brand%"
+  - "&cHorizontal Sensitivity: &f%h_sensitivity%%"
+  - "&cVertical Sensitivity: &f%v_sensitivity%%"
+  - "&cFastMath Enabled: &f%fast_math%"
+  - "&c======================"
+help:
+  - "&c======================"
+  - "&c/grim alerts &f- &7Toggle alerts"
+  - "&c/grim profile <player> &f- &7View player info"
+  - "&c/grim help &f- &7View this help message"
+  - "&c/grim debug <player> &f- &7Developer Prediction output"
+  - "&c/grim perf &f- &7Developer ms/prediction"
+  - "&c/grim reload &f- &7Reloads the config"
+  - "&c/grim spectate <player> &f- &7Spectate a player"
+  - "&c/grim verbose &f- &fShows every flag to you, without buffers"
+  - "&c/grim log [0-255] &f- &7Uploads a debug log for prediction flags"
+  - "&c======================"

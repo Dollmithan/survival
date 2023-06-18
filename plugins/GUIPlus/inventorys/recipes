@@ -1,0 +1,510 @@
+inv:
+  size: 45
+  alias: recipes
+  permission: null
+  id: recipes
+  title: §e§lCRAFTING RECIPES
+  targetPlayerOption: DISABLED
+  items:
+    0:
+      8143012372723989298:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    1:
+      -685972783625635796:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    2:
+      -3156354055000608550:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    3:
+      -8462138312959176976:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    4:
+      -477995285168846582:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    5:
+      -3919082789722803484:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    6:
+      -2190579075288436957:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    7:
+      -1108662915844488668:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    8:
+      -2177509858091484924:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    9:
+      -981490163857557017:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    10:
+      -8372242044882823732:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 7
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    11:
+      7397115516197567767:
+        shiftrightaction: null
+        item:
+          type: CHAINMAIL_HELMET
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    12:
+      -2276046006229711365:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 7
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    13:
+      -3858899117969040447:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    14:
+      -6955481874605353418:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    15:
+      -3809157487254558820:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    16:
+      -7731858504858430861:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    17:
+      -5422626333385664118:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    18:
+      5214458288918874173:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    19:
+      -6460224688299221516:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 7
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    20:
+      6589117084101241938:
+        shiftrightaction: null
+        item:
+          type: LEATHER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §2Epic Leather
+            enchants:
+              LUCK: 1
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            Unbreakable: true
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    21:
+      -378889808068696311:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 7
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    22:
+      8229266812516829995:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    23:
+      8518724560127655408:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    24:
+      8987594777375731256:
+        shiftrightaction: null
+        item:
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §2Epic Helmet
+            lore:
+            - '§eDurability: 364/364'
+            ItemFlags:
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            Unbreakable: true
+            internal: H4sIAAAAAAAA/42OQQrCMBREB1tKWi2IC4/hDQQLbhSrC+0Bov22AZNI8nsLj+MBrSJKwYKzG5h5vASIMcmYnTo2TLkt1VmR8wmAQQBRFKtlbj0Dw3GA+Fk3JNs+MvMIUaZtY3gh8IpAuL9YRliTLAXSD3YrNSGtyJBTp5l02roWtruSk6yseX9/rNBREOuuwv32VcA/CtMO/GCbqjbkfZ9Lzxx4AL8PLfk2AQAA
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    25:
+      208772577050293155:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    26:
+      1020889961172881895:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    27:
+      1127464103325337668:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    28:
+      7067742876746576801:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 7
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    29:
+      1407199071030649865:
+        shiftrightaction: null
+        item:
+          type: DIAMOND
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    30:
+      -1417081468215945043:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 7
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    31:
+      8397603951189061771:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    32:
+      -882208294289343359:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    33:
+      -6994415979083453745:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    34:
+      9220830649602828021:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    35:
+      3197691906228152729:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    36:
+      -7704627887910772299:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    37:
+      74385937218637353:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    38:
+      2635906978914623242:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    39:
+      2932083488025714236:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    40:
+      -3798781814732970634:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    41:
+      4886158879591202491:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    42:
+      -4650947243937218417:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    43:
+      6695289632152815179:
+        shiftrightaction: null
+        item:
+          type: STAINED_GLASS_PANE
+        leftaction: null
+        shiftleftaction: null
+        middleaction: null
+        rightaction: null
+    44:
+      6061388474206536335:
+        shiftrightaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          permission: null
+          closeInv: false
+          commands:
+          - gui open armor
+        item:
+          type: BARRIER
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §c§lBACK
+            lore:
+            - §cClick me to go back to armor sets!
+        leftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          permission: null
+          closeInv: false
+          commands:
+          - gui open armor
+        shiftleftaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          permission: null
+          closeInv: false
+          commands:
+          - gui open armor
+        middleaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          permission: null
+          closeInv: false
+          commands:
+          - gui open armor
+        rightaction:
+          price:
+            lvl: false
+            money: 0.0
+            xp: 0
+            economy: Vault
+            items: []
+            checkDurability: true
+          cooldown: 200
+          permission: null
+          closeInv: false
+          commands:
+          - gui open armor

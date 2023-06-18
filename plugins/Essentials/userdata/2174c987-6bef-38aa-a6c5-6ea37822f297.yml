@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.43.190.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685880096771
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686742426767
+  login: 1686742347336
+money: '12030'
+last-account-name: dollmithan
+lastlocation:
+  world: 2acc349f-2a98-4171-b56e-e89b924a0ed7
+  world-name: desteria
+  x: -162.45444388904883
+  y: 123.0625
+  z: -240.4652533230718
+  yaw: -210.95303344726562
+  pitch: 6.7502546310424805
+logoutlocation:
+  world: 6d8f7fa0-897b-482d-9379-fb8b055c8e3e
+  world-name: survivalspawn
+  x: 95.80388660880791
+  y: 106.0
+  z: 74.9290969336395
+  yaw: -218.5017547607422
+  pitch: 15.742043495178223

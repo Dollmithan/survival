@@ -1,0 +1,26 @@
+Regions:
+  survivalspawn:
+    spawnshop:
+      sold: false
+      paybackPercentage: 0
+      isHotel: false
+      lastreset: 0
+      lastLogin: 0
+      maxMembers: -1
+      regiontype: rentregion
+      price: 5000.0
+      signs:
+      - survivalspawn;95.0;108.0;71.0;WALL;SOUTH
+      kind: Default
+      flagGroup: Default
+      inactivityReset: true
+      entityLimitGroup: Default
+      autorestore: true
+      allowedSubregions: 0
+      userrestorable: true
+      boughtExtraTotalEntitys: 0
+      isprotectionofcontinuance: false
+      boughtExtraEntitys: []
+      extendTime: 86400000
+      payedTill: 1685122625339
+      maxExtendTime: 2678400000

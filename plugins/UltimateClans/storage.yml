@@ -1,0 +1,17 @@
+Storage:
+  # mysql/yaml
+  # For better performance it is recommended to use MYSQL as storage.
+  type: yaml
+  mysql:
+    host: localhost
+    user: YOUR-USER
+    pass: YOUR-PASSWORD
+    port: 3306
+    base: YOUR-BASE-PRE-CREATED
+    #SSL is only valid for MYSQL, most servers are not necessary to use it as true.
+    useSSL: false
+    #Change mysql table default charset (utf8, latin1 etc...), Use empty for default.
+    charset: ''
+  databases:
+    clan_table: uclans-clans
+    player_table: uclans-players

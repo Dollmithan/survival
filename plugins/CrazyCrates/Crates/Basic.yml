@@ -1,0 +1,102 @@
+Crate:
+  CrateType: CSGO
+  CrateName: '&8Basic Crate'
+  Preview-Name: '&8Basic Crate Preview'
+  StartingKeys: 0
+  InGUI: true
+  Slot: 21
+  OpeningBroadCast: true
+  BroadCast: '%Prefix%&6&l%Player% &7is opening a &7&lBasic Chest&7.'
+  Item: CHEST
+  Glowing: false
+  Name: '&7&lBasic Chest'
+  Lore:
+  - '&7This crate contains strange objects.'
+  - '&7You have &6%Keys% keys &7to open this crate with.'
+  - '&7&l(&e&l!&7&l) Right click to view rewards.'
+  Preview:
+    Toggle: true
+    ChestLines: 6
+    Glass:
+      Toggle: true
+      Item: STAINED_GLASS_PANE:7
+  PhysicalKey:
+    Name: '&7&lBasic Crate &b&lKey'
+    Lore:
+    - '&7A special Key'
+    - '&7For a special Crate.'
+    Item: TRIPWIRE_HOOK
+    Glowing: true
+  Hologram:
+    Toggle: true
+    Height: 1.5
+    Message:
+    - '&7&lBasic Chest'
+  Prizes:
+    '1':
+      DisplayName: '&7&lBasic Grass'
+      DisplayItem: GRASS
+      DisplayAmount: 1
+      Lore:
+      - '&7Win some grass for your fields.'
+      - '&6&lChance: &c&l40%'
+      DisplayEnchantments:
+      - PROTECTION_ENVIRONMENTAL:1
+      - OXYGEN:1
+      MaxRange: 100
+      Chance: 40
+      Firework: false
+      Glowing: false
+      Player: ''
+      Unbreakable: false
+      HideItemFlags: false
+      Items:
+      - Item:GRASS, Amount:32, Name:&7&lBasic Grass
+      Commands:
+      - broadcast &6&l%Player% &7has just won some Basic Grass.
+      Messages:
+      - '&7You just won a &7&lBasic Grass&7.'
+      BlackListed-Permissions: []
+      Alternative-Prize:
+        Toggle: false
+        Messages: []
+        Commands: []
+        Items: []
+      Editor-Items:
+      - ==: org.bukkit.inventory.ItemStack
+        type: STONE_SWORD
+    '2':
+      DisplayName: '&b&lCheap Helmet'
+      DisplayItem: GOLD_HELMET
+      DisplayAmount: 1
+      Lore:
+      - '&7Win a cheap helmet.'
+      - '&6&lChance: &c&l60%'
+      MaxRange: 100
+      Chance: 60
+      Items:
+      - Item:GOLDEN_HELMET, Amount:1, Name:&bCheap Helmet, PROTECTION_ENVIRONMENTAL:1,
+        OXYGEN:1
+    '3':
+      DisplayName: '&e&l$1,000'
+      DisplayItem: DOUBLE_PLANT:0
+      DisplayAmount: 1
+      Lore:
+      - '&7Make it rain Money.'
+      - '&6&lChance: &c&l20%'
+      MaxRange: 100
+      Chance: 20
+      Firework: true
+      Commands:
+      - eco give %Player% 1000
+      Messages:
+      - '&7You just won &a$1,000&7.'
+      BlackListed-Permissions:
+      - crazycrates.blacklist.basic.3
+      Alternative-Prize:
+        Toggle: true
+        Messages:
+        - '&8[&bCrazyCrates&8]: &7You have already won that prize, so enjoy some gold
+          nuggets.'
+        Commands:
+        - give %player% 371 16

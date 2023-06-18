@@ -1,0 +1,16 @@
+commands:
+  "stats":
+    aliases: ["stats", "statistics"]
+    permission: stats.view
+    message:
+      - "&aStats:"
+      - "&a- Name: %player_name%"
+      - "&a- UUID: %player_uuid%"
+      - "&a- Ping: %player_ping%"
+      - "&a- Play Time: %statistic_time_played%"
+      - "&a- Animals Bred: %statistic_animals_bred%"
+      - "&a- Deaths: %statistic_deaths%"
+      - "&a- Kills: %statistic_player_kills%"
+      - "&a- Blocks: %statistic_mine_block%"
+      - "&chttps://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#Statistic"
+      - "&cEdit this messahe in /plugins/CommandBuilder/config.yml"

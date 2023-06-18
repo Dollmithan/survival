@@ -1,0 +1,34 @@
+prefix: '<GRADIENT:f2f2f2>RotatingHeads</GRADIENT:cfcfcf> &8| '
+help-usage: '&fProsím použi: &7/rheads help'
+no-perms: '&fNa toto nemáš dostatočné práva!'
+help:
+- <GRADIENT:f2f2f2>ROTATINGHEADS</GRADIENT:cfcfcf> <SOLID:ffffff>&oREBORN &8 | &7
+  Nápoveda!
+- '&r'
+- '&7- &f/rotatingheads help &7(Zobrazí nápovedu)'
+- '&7- &f/rotatingheads list &7(Zoznam hláv)'
+- '&7- &f/rotatingheads create [názov] &7(Vytvorí hlavu)'
+- '&7- &f/rotatingheads remove [názov] &7(Vymaže hlavu)'
+- '&7- &f/rotatingheads movehere [názov] &7(Premiestní hlavu na tvoju pozíciu)'
+- '&7- &f/rotatingheads teleport [názov] &7(Teleportuješ sa na hlavu)'
+- '&7- &f/rotatingheads reload &7(Prenačíta konfiguráciu)'
+list:
+  header:
+  - '&7Zoznam hláv:'
+  empty: '&cTu nič není :c'
+  format: '&7- &f%name%'
+create:
+  successful: '&fHlava &7%head% &fbola úspešne vytvorená!'
+  exist: '&fHlava &7%head% &fuž existuje!'
+remove:
+  successful: '&fHlava &7%head% &fbyla úspěšně odstraněna!'
+  exist: '&fHlava &7%head% &fzatiaľ neexistuje!'
+movehere:
+  successful: '&fHlava &7%head% &fbola úspešne premiestnená na tvoju lokáciu!'
+  exist: '&fHlava &7%head% &fzatiaľ neexistuje!'
+teleport:
+  successful: '&fÚspešne si sa teleportoval na hlavu &7%head%&f!'
+  exist: '&fHlava &7%head% &fzatiaľ neexistuje!'
+reload:
+  successful: '&fKonfigurácia úspešne obnovená.'
+temp-head-safe: '&fNemôžeš upravovať dočasnú hlavu!'

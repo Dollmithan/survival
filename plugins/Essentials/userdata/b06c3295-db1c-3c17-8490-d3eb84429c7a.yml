@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.43.190.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1686752335908
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686753166909
+  login: 1686752455878
+  kits:
+    color: 1686050276610
+money: '3997300.0'
+last-account-name: dito
+logoutlocation:
+  world: 2acc349f-2a98-4171-b56e-e89b924a0ed7
+  world-name: desteria
+  x: -132.0084472558591
+  y: 115.0
+  z: -258.3841065423715
+  yaw: 226.2222900390625
+  pitch: 16.365930557250977
+lastlocation:
+  world: 2acc349f-2a98-4171-b56e-e89b924a0ed7
+  world-name: desteria
+  x: -135.77882138283326
+  y: 115.0
+  z: -261.312396541045
+  yaw: 6.4375
+  pitch: 31.046520233154297
+homes:
+  vesh:
+    world: 6d8f7fa0-897b-482d-9379-fb8b055c8e3e
+    world-name: survivalspawn
+    x: 12.543944507691899
+    y: 4.0
+    z: -280.0760650972965
+    yaw: 179.6331329345703
+    pitch: 19.169105529785156

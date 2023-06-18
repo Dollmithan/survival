@@ -1,0 +1,31 @@
+# LPC Configuration
+# Please read the https://luckperms.net/wiki/Prefixes,-Suffixes-&-Meta before you set up.
+#
+# Placeholders:
+# {message} - the chat message
+# {name} - the player's name
+# {displayname} - the player's display name / nickname
+# {world} - the world name of the player's current world
+# {prefix} - the player's highest priority prefix
+# {suffix} - the player's highest priority suffix
+# {prefixes} - the player's prefixes sorted by the highest priority
+# {suffixes} - the player's suffixes sorted by the highest priority
+# {username-color} - the player's or the group's username color
+# {message-color} - the player's or the group's message color
+#
+# To reload the configuration, run '/lpc reload' command. Make sure you have the 'lpc.reload' permission assigned.
+# More information can be found at https://www.spigotmc.org/resources/68965.
+chat-format: "{prefix}{name}&r: {message}"
+
+# Set the format per group.
+# Note: Option for more advanced users. Remove comments to run.
+group-formats:
+  default: "&8En &7(Player) %uclans_tag_formated%{name} &e{message}"
+  admin: "&8En &c&l(Admin) %uclans_tag_formated%&7{name} &e{message}"
+  moderator: "&8En &9&l(Moderator) %uclans_tag_formated%&7{name} &e{message}"
+  helper: "&8En &2&l(Helper) %uclans_tag_formated%&7{name} &e{message}"
+  sponsor: "&8En &a&l(Sponsor) %uclans_tag_formated%&7{name} &e{message}"
+  ultra: "&8En &b&l(Ultra) %uclans_tag_formated%&7{name} &e{message}"
+  premium: "&8En &9&l(Premium) %uclans_tag_formated%&7{name} &e{message}"
+  vip: "&8En &e&l(Vip) %uclans_tag_formated%&7{name} &e{message}"
+  warrior: "&8En &c&l(Warrior) %uclans_tag_formated%&7{name} &e{message}"

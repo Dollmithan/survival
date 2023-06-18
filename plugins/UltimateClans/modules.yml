@@ -1,0 +1,9 @@
+# Module settings. The module configurations bring functioning configurations linked to the functioning modules
+Modules:
+  holograms:
+    # IN TICKS (don't use zero)
+    task: 5
+  sign:
+    enabled: true
+    # IN TICKS (don't use zero)
+    task: 5

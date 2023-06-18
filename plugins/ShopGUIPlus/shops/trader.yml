@@ -1,0 +1,97 @@
+trader:
+  name: "&e&lTrader"
+  size: 36
+  fillItem:
+    material: STAINED_GLASS_PANE
+    damage: 1
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 39
+    nextPage:
+      slot: 41
+  items:
+    2:
+      type: item
+      item:
+        material: LOG
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 20
+      slot: 11
+    3:
+      type: item
+      item:
+        material: LOG
+        quantity: 64
+        damage: 1
+      buyPrice: 200
+      sellPrice: 20
+      slot: 12
+    4:
+      type: item
+      item:
+        material: LOG_2
+        quantity: 64
+        damage: 1
+      buyPrice: 300
+      sellPrice: 30
+      slot: 13
+    5:
+      type: item
+      item:
+        material: CARROT_ITEM
+        quantity: 32
+      buyPrice: 500
+      sellPrice: 40
+      slot: 14
+    8:
+      type: item
+      item:
+        material: POTATO_ITEM
+        quantity: 32
+      buyPrice: 500
+      sellPrice: 40
+      slot: 15
+    10:
+      type: item
+      item:
+        material: GOLD_INGOT
+        quantity: 16
+      buyPrice: -1
+      sellPrice: 10
+      slot: 20
+    11:
+      type: item
+      item:
+        material: DIAMOND
+        quantity: 16
+      buyPrice: -1
+      sellPrice: 30
+      slot: 21
+    12:
+      type: item
+      item:
+        material: IRON_INGOT
+        quantity: 16
+      buyPrice: -1
+      sellPrice: 20
+      slot: 22
+    13:
+      type: item
+      item:
+        material: EMERALD
+        quantity: 16
+      buyPrice: -1
+      sellPrice: 50
+      slot: 23
+    14:
+      type: item
+      item:
+        material: WHEAT
+        quantity: 32
+      buyPrice: 500
+      sellPrice: 40
+      slot: 24

@@ -1,0 +1,20 @@
+location: survivalspawn:99.561:109.000:71.689
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&e&lULTRAMC MARKET'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '&eRun your own business!'
+    height: 0.3
+  - content: '&eRent a small space,'
+    height: 0.3
+  - content: '&eSell anything you want, and other players will buy them!'
+    height: 0.3
+  actions: {}

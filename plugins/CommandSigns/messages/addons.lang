@@ -1,0 +1,22 @@
+#See https://github.com/Nokorbis/ar-command-signs/wiki/Custom-messages for more information about this file
+#Sat May 27 18:10:01 UTC 2023
+info.require_confirmation=§bRequires confirmation
+usage.global_once_already_used=§cSomeone has already used that command block.
+info.is_global_only_once=§bCan only be used once
+usage.player_once_already_used=§cYou have already used that command block.
+usage.economy.bypassed=§eYou have bypassed the cost of this command block.
+error.command.require_number=§4This command requires a number.
+usage.not_enough_money=§cYou do NOT have enough money (§d{PRICE}§c) to use this command block.
+error.command.require_args=§4This command requires more args.
+info.permission_format=§7---{NUMBER}. {PERMISSION}
+usage.miss_required_permission=§cYou do not have the needed permission \: {NEEDED_PERM} .
+info.player_cooldown=§bPer player cooldown\: §e{TIME} 
+error.command.index_too_large=§4The index you entered is too large.
+usage.confirmation.required=§cThis command block requires a confirmation. Please click again within 15 seconds.
+usage.general_cooldown=§cThis command block has been used {TIME} ago. You must wait {REMAINING}.
+usage.player_cooldown=§cYou have already used this command block {TIME} ago. You must wait {REMAINING}.
+usage.you_paied=§eYou have payed §d{PRICE} §eto use this command block.
+info.required_permissions=§bRequired permissions\:
+info.is_player_only_once=§bCan only be used once per player
+info.global_cooldown=§bGlobal cooldown\: §e{TIME}
+info.costs_format=§bCosts\: §e{PRICE}

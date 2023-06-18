@@ -1,0 +1,19 @@
+location: survivalspawn:95.574:108.500:79.491
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&c&lPVPWARPS'
+    height: 0.3
+  - content: '&eIf you want to &cPvP'
+    height: 0.3
+  - content: '&eUse the command: &e/pvpwarps&e!'
+    height: 0.3
+  - content: '&eDon''t forget your armor!'
+    height: 0.3
+
+  actions: {}

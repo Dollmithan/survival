@@ -1,0 +1,33 @@
+prefix: '<GRADIENT:f2f2f2>Dönen Kafalar</GRADIENT:cfcfcf> &8► '
+help-usage: '&fLütfen &7/rheads help &fkomutunu kullan.'
+no-perms: '&fYeterli izne sahip değilsin.'
+help:
+- <GRADIENT:f2f2f2>DÖNENKAFALAR</GRADIENT:cfcfcf> <SOLID:ffffff> &8► &7 Yardım!
+- '&r'
+- '&7- &f/rotatingheads help &7(Yardım menüsünü açar)'
+- '&7- &f/rotatingheads list &7(Oluşturulan kafaları listeler)'
+- '&7- &f/rotatingheads create [name] &7(Yeni kafa oluşturur)'
+- '&7- &f/rotatingheads remove [name] &7(Kafayı siler.)'
+- '&7- &f/rotatingheads movehere [name] &7(Kafayı olduğun kordinata getirir.)'
+- '&7- &f/rotatingheads teleport [name] &7(Oluşturduğun kafaya ışınlar.)'
+- '&7- &f/rotatingheads reload &7(Yapılandırmayı yeniler)'
+list:
+  header:
+  - '&7Kafa Listesi:'
+  empty: '&cHenüz bir kafa oluşturmamışsın :c'
+  format: '&7- &f%name%'
+create:
+  successful: '&7%head% &fbaşarıyla oluşturuldu!'
+  exist: '&7%head% &fazaten var!'
+remove:
+  successful: '&7%head% &fadlı kafa başarıyla silindi!'
+  exist: '&7%head% &7adında kafa yok!'
+movehere:
+  successful: '&7%head% &fbaşarıyla olduğun kordinata getirildi!'
+  exist: '&7%head% &fadında kafa yok!'
+teleport:
+  successful: '&7Başarıyla &7%head% &fkafasına ışınlandın!'
+  exist: '&7%head% &fadında kafa yok!'
+reload:
+  successful: '&fYapılandırma başarıyla yenilendi.'
+temp-head-safe: '&fGeçici başlığı düzenleyemezsiniz!'

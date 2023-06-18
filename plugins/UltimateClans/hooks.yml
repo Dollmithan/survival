@@ -1,0 +1,12 @@
+#Addons and Hooks
+Hooks:
+  Vault: true
+  PlayerPoints: false
+  PlaceholderAPI: true
+  ProtocolLib: true
+  WorldGuard: true
+  CombatLogX: false
+  DeluxeCombat: false
+  PvPManager: false
+  floodgate: false
+  Duels: false

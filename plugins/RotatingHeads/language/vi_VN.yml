@@ -1,0 +1,36 @@
+prefix: '<GRADIENT:f2f2f2>RotatingHeads</GRADIENT:cfcfcf> &8| '
+help-usage: '&fDùng lệnh: &7/rheads help'
+no-perms: '&cBạn không có quyền sử dụng lệnh này'
+help:
+- <GRADIENT:f2f2f2>ROTATINGHEADS</GRADIENT:cfcfcf> <SOLID:ffffff>&oREBORN &8 | &7
+  Help!
+- '&r'
+- '&8- &7/rotatingheads help &8(&fMở trang này&8)'
+- '&8- &7/rotatingheads list &8(&fLiệt kê head đã tồn tại&8)'
+- '&8- &7/rotatingheads create &8[&fTên head muốn tạo&8] &8(&fTạo một head mới&8)'
+- '&8- &7/rotatingheads remove &8[&fTên head muốn xóa&8] &8(&fXóa head&8)'
+- '&8- &7/rotatingheads movehere &8[&fTên head muốn dịch chuyển&8] &8(&fDịch chuyển
+  head đến chỗ của bạn&8)'
+- '&8- &7/rotatingheads teleport &8[&fTên head muốn dịch chuyển&8] &8(&fDịch chuyển
+  đến chỗ head&7)'
+- '&8- &7/rotatingheads reload &8(&fTải lại config&8)'
+list:
+  header:
+  - '&7RotatingHeads &8| &fLiệt kê head đã tồn tại.'
+  empty: '&cBạn chưa tạo head nào cả!'
+  format: '&8- &f%name%'
+create:
+  successful: '&fĐã tạo thành công head mới &7%head%!'
+  exist: '&cHead &f%head% &cđã tồn tại!'
+remove:
+  successful: '&fĐã xóa thành công head &7%head%!'
+  exist: '&cHead &f%head% &ckhông tồn tại!'
+movehere:
+  successful: '&fDịch chuyển thành công head &7%head% &ftới chỗ của bạn!'
+  exist: '&cHead &f%head% &ckhông tồn tại!'
+teleport:
+  successful: '&7Đã dịch chuyển bạn tới &7%head%&f!'
+  exist: '&cHead &f%head% &ckhông tồn tại!'
+reload:
+  successful: '&fTải lại thành công.'
+temp-head-safe: '&fBạn không thể chỉnh sửa đầu tạm thời!'

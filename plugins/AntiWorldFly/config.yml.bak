@@ -1,0 +1,71 @@
+#==============================O==============================#
+# I---------------------------------------------------------I #
+# |       Anti World Fly 2.5.2 configuration - Readme       | #
+# 1---------------------------------------------------------1 #
+#==============================o==============================#
+
+# Blocked commands only operate in the worlds in which flying is blocked.
+# Elytras are only blocked in the worlds in which flight is blocked.
+# Only spaces, no tabs. To check your file, use: yaml-online-parser.appspot.com
+# Default config.yml file: github.com/PyvesB/AntiWorldFly/blob/master/src/main/resources/config.yml
+# Visit the GitHub for some additional documentation: github.com/PyvesB/AntiWorldFly
+
+#=============================O=O=============================#
+# II-------------------------------------------------------II #
+# |                    General  settings                    | #
+# 2---------------------------------------------------------2 #
+#=============================o=o=============================#
+
+# Worlds in which flying is blocked; list below with - in front of each world name.
+antiFlyWorlds: 
+  - your_world_1
+#  - world_nether
+#  - world_end
+  
+# Additional blocked commands in the above worlds; list below with - in front of each command.
+otherBlockedCommands: []
+#  - /yourCommand_1
+#  - /yourCommand_2
+
+# Toggles whether the elytra should be disabled in blocked worlds.
+# Only works in versions >1.9 (obviously)
+elytraDisabled: false
+
+# Enable or disable chat messages when joining a world.
+chatMessage: true
+
+# Enable or disable title screen messages when joining a world. Disable if running Minecraft 1.7.
+titleMessage: true
+
+# Enable (true) or disable (false) AntiWorlFly blocking when in creative mode.
+antiFlyCreative: true
+
+# Notify player when entering a world in which flying is blocked even if he is not flying.
+notifyNotFlying: true
+
+# A player entering a world not listed in antiFlyWorlds will have flying enabled and automatically start flying if not on the ground.
+# Player must have either antiworldfly.fly or essentials.fly permissions for this feature to be effective.
+toggleFlyingInNonBlockedWorlds: false
+
+# Set the icon of the plugin (default: '\u06DE').
+icon: '\u06DE'
+
+# In the event that AntiWorldFly is conflicting with a different plugin, you can change the WorldGuard flags' name.
+# WARNING: changing these will break pre-existing rules which utilize these flags!
+antiFlyFlagName: flight-enabled
+antiElytraFlagName: elytra-enabled
+
+# Name of the language file.
+languageFileName: lang.yml
+
+# Whether bStats should be enabled.
+enable-bStats: true
+
+# Check for update on plugin launch and notify when an OP joins the game.
+checkForUpdate: true
+
+#=============================OOO=============================#
+# III-----------------------------------------------------III #
+# |         Parameters to appear in future versions         | #
+# 3---------------------------------------------------------3 #
+#=============================ooo=============================#

@@ -1,0 +1,108 @@
+cooldown: 86400
+items_given_on_get: 4
+permission: ultrakits.claimkit.starter
+all_items_at_once: true
+'0':
+  ==: org.bukkit.inventory.ItemStack
+  type: STONE_SWORD
+0_chance: 20.0
+'1':
+  ==: org.bukkit.inventory.ItemStack
+  type: STONE_PICKAXE
+1_chance: 20.0
+'2':
+  ==: org.bukkit.inventory.ItemStack
+  type: STONE_AXE
+2_chance: 20.0
+'3':
+  ==: org.bukkit.inventory.ItemStack
+  type: STONE_SPADE
+3_chance: 20.0
+'4':
+  ==: org.bukkit.inventory.ItemStack
+  type: APPLE
+  amount: 8
+4_chance: 20.0
+'5':
+  ==: org.bukkit.inventory.ItemStack
+  type: BAKED_POTATO
+  amount: 8
+5_chance: 20.0
+'6':
+  ==: org.bukkit.inventory.ItemStack
+  type: POTATO_ITEM
+  amount: 16
+6_chance: 20.0
+'7':
+  ==: org.bukkit.inventory.ItemStack
+  type: SAPLING
+  amount: 8
+7_chance: 20.0
+'8':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    color:
+      ==: Color
+      RED: 115
+      BLUE: 117
+      GREEN: 119
+8_chance: 20.0
+'9':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    color:
+      ==: Color
+      RED: 71
+      BLUE: 82
+      GREEN: 79
+9_chance: 20.0
+'10':
+  ==: org.bukkit.inventory.ItemStack
+  type: SAPLING
+  damage: 1
+  amount: 4
+10_chance: 20.0
+'11':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    color:
+      ==: Color
+      RED: 115
+      BLUE: 117
+      GREEN: 119
+11_chance: 20.0
+'12':
+  ==: org.bukkit.inventory.ItemStack
+  type: GOLDEN_APPLE
+12_chance: 20.0
+'13':
+  ==: org.bukkit.inventory.ItemStack
+  type: CARROT_ITEM
+  amount: 16
+13_chance: 20.0
+'14':
+  ==: org.bukkit.inventory.ItemStack
+  type: WHEAT
+  amount: 16
+14_chance: 20.0
+'15':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    color:
+      ==: Color
+      RED: 71
+      BLUE: 82
+      GREEN: 79
+15_chance: 20.0

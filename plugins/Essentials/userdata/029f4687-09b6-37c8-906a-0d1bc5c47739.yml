@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.104.29.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1686678190826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686753159155
+  login: 1686752455874
+money: '0'
+last-account-name: Elion
+lastlocation:
+  world: 2acc349f-2a98-4171-b56e-e89b924a0ed7
+  world-name: desteria
+  x: -146.5433252109101
+  y: 115.0
+  z: -244.15481730051985
+  yaw: 301.2003173828125
+  pitch: 15.149934768676758
+logoutlocation:
+  world: 6d8f7fa0-897b-482d-9379-fb8b055c8e3e
+  world-name: survivalspawn
+  x: 6.300000011920929
+  y: 4.0
+  z: -280.71390245828337
+  yaw: 8.48272705078125
+  pitch: 63.71907043457031
+homes:
+  home:
+    world: 6d8f7fa0-897b-482d-9379-fb8b055c8e3e
+    world-name: survivalspawn
+    x: 7.172676130571588
+    y: 4.0
+    z: -282.0171308094655
+    yaw: 353.63275146484375
+    pitch: 34.1690673828125

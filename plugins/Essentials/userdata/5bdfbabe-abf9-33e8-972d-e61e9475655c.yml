@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.172.224.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1686678062160
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686681944446
+  login: 1686679311072
+money: '0'
+last-account-name: Hatharal
+lastlocation:
+  world: 2acc349f-2a98-4171-b56e-e89b924a0ed7
+  world-name: desteria
+  x: -127.60396729877702
+  y: 115.01577914164065
+  z: -231.10677875494028
+  yaw: 272.7113037109375
+  pitch: 5.119832515716553
+logoutlocation:
+  world: 2acc349f-2a98-4171-b56e-e89b924a0ed7
+  world-name: desteria
+  x: -150.69999998807907
+  y: 124.0
+  z: -262.4991130783165
+  yaw: -269.04010009765625
+  pitch: 65.0411376953125
+homes:
+  home:
+    world: 6d8f7fa0-897b-482d-9379-fb8b055c8e3e
+    world-name: survivalspawn
+    x: 3.0160979099779137
+    y: 4.0
+    z: -287.74020762541
+    yaw: -0.7817768454551697
+    pitch: 4.2102952003479

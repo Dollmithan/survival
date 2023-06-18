@@ -1,0 +1,13 @@
+# How long till a player can repair their armor after getting hit (in seconds) 
+# This cooldown also applies to armor equip/unequip
+
+repair_cooldown: 10
+
+# How long of a cooldown does eating a notch apple have (in seconds)
+
+notch_cooldown: 300
+
+# Can people with this permission bypass both cooldowns?
+
+bypass_permission_enabled: false
+bypass_permission: "ultramcitems.bypasscooldowns"

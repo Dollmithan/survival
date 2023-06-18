@@ -1,0 +1,263 @@
+cooldown: 10
+items_given_on_get: 4
+permission: ultrakits.claimkit.vip
+all_items_at_once: false
+'0':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §2Epic Chestplate
+    lore:
+    - '§eDurability: 528/528'
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    Unbreakable: true
+    internal: H4sIAAAAAAAA/+NiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmbgCA31dPHNLy5hYOBOYGbgBHF9UhOBfN55b9kY2Bxz80vzShwUGMCAg4ElOCe/hIE1OSO1uISDgRdurl9ibioDb3pqXmpRZrJeYlFufhHQNP+C1KLEksz8PKhmLKoYUNzAHoDiBp5jLQg3MBDlBjEU00PyS9Mz8lKLi3E5BodyBgYABBXNJzgBAAA=
+    color:
+      ==: Color
+      RED: 254
+      BLUE: 61
+      GREEN: 216
+0_chance: 20.0
+'1':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §e[VIP]
+    lore:
+    - '§eDurability: 364/364'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 4
+      PROTECTION_FALL: 4
+      PROTECTION_PROJECTILE: 4
+      DURABILITY: 3
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    Unbreakable: true
+    internal: H4sIAAAAAAAA/42OMQrCQBREBxPCJprGwsJDeAYDNkKihQbrVX/igtmV3b+1p/AY3tEoogQMON3AzOMlQIxxxmzV3jMV5qgqRdYlAAYBRFkuF4VxDAynAeJnzUm2Pb3eI0RZY7zmucArAuHmbBhhRcQC6Qe7kg0hrUmTVYeZtI2xLWx9IStZGf3+/lihoyB2HYXRLf8q4B+FSQe+Nb4+aXKuz6VnDjwANM3L1jYBAAA=
+    color:
+      ==: Color
+      RED: 254
+      BLUE: 61
+      GREEN: 216
+1_chance: 20.0
+'2':
+  ==: org.bukkit.inventory.ItemStack
+  type: COAL
+  amount: 16
+2_chance: 20.0
+'3':
+  ==: org.bukkit.inventory.ItemStack
+  type: POTATO_ITEM
+  amount: 16
+3_chance: 20.0
+'4':
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DAMAGE_ALL: 4
+4_chance: 20.0
+'5':
+  ==: org.bukkit.inventory.ItemStack
+  type: GOLD_INGOT
+  amount: 32
+5_chance: 20.0
+'6':
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      DAMAGE_ALL: 5
+6_chance: 20.0
+'7':
+  ==: org.bukkit.inventory.ItemStack
+  type: GOLD_PICKAXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §e[VIP]
+    enchants:
+      LOOT_BONUS_BLOCKS: 6
+7_chance: 20.0
+'8':
+  ==: org.bukkit.inventory.ItemStack
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      ARROW_DAMAGE: 5
+8_chance: 20.0
+'9':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER
+  amount: 8
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §2Epic Leather
+    enchants:
+      LUCK: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    Unbreakable: true
+9_chance: 20.0
+'10':
+  ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND
+  amount: 16
+10_chance: 20.0
+'11':
+  ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      PROTECTION_ENVIRONMENTAL: 4
+11_chance: 20.0
+'12':
+  ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      PROTECTION_FALL: 4
+12_chance: 20.0
+'13':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER
+  amount: 3
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §2Epic Leather
+    enchants:
+      LUCK: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    - HIDE_ATTRIBUTES
+    Unbreakable: true
+13_chance: 20.0
+'14':
+  ==: org.bukkit.inventory.ItemStack
+  type: EMERALD
+  amount: 64
+14_chance: 20.0
+'15':
+  ==: org.bukkit.inventory.ItemStack
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      DURABILITY: 3
+15_chance: 20.0
+'16':
+  ==: org.bukkit.inventory.ItemStack
+  type: EXP_BOTTLE
+  amount: 32
+16_chance: 20.0
+'17':
+  ==: org.bukkit.inventory.ItemStack
+  type: CHAINMAIL_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §2Epic Leggings
+    lore:
+    - '§eDurability: 495/495'
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    Unbreakable: true
+    internal: H4sIAAAAAAAA/42OQQqCUBRFLymilpMGES2hQWtIaBJkDcoF/OplH/S/+P+5h3YS7TKLKISE7uzCvYcTAxGGqYjV+1oo46M+abIuBtDzEOb5cpGxE6AvHqJnXZFq+uB2DxCkFddG5mO8EsLflizwSypciOSDXauKkBRkyOrDTNmKbQPbXMgq0Wze3x8rtBUmLYXr1P8q4B+FUQu+47o4G3Kuy6VjDjwATKzl+TYBAAA=
+17_chance: 20.0
+'18':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §2Epic Boots
+    lore:
+    - '§eDurability: 364/364'
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    Unbreakable: true
+    internal: H4sIAAAAAAAA/42OMQrCQBREBxPCJprGwsJDeAYDNkKihQbrVX/igtmV3b+1p/AY3tEoogQMON3AzOMlQIxxxmzV3jMV5qgqRdYlAAYBRFkuF4VxDAynAeJnzUm2Pb3eI0RZY7zmucArAuHmbBhhRcQC6Qe7kg0hrUmTVYeZtI2xLWx9IStZGf3+/lihoyB2HYXRLf8q4B+FSQe+Nb4+aXKuz6VnDjwANM3L1jYBAAA=
+    color:
+      ==: Color
+      RED: 254
+      BLUE: 61
+      GREEN: 216
+18_chance: 20.0
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §2Epic Leggings
+    lore:
+    - '§eDurability: 495/495'
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    Unbreakable: true
+    internal: H4sIAAAAAAAA/42OQQqCUBRFLymilpMGES2hQWtIaBJkDcoF/OplH/S/+P+5h3YS7TKLKISE7uzCvYcTAxGGqYjV+1oo46M+abIuBtDzEOb5cpGxE6AvHqJnXZFq+uB2DxCkFddG5mO8EsLflizwSypciOSDXauKkBRkyOrDTNmKbQPbXMgq0Wze3x8rtBUmLYXr1P8q4B+FUQu+47o4G3Kuy6VjDjwATKzl+TYBAAA=
+    color:
+      ==: Color
+      RED: 254
+      BLUE: 61
+      GREEN: 216
+19_chance: 20.0
+'20':
+  ==: org.bukkit.inventory.ItemStack
+  type: CHAINMAIL_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §2Epic Boots
+    lore:
+    - '§eDurability: 364/364'
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    Unbreakable: true
+    internal: H4sIAAAAAAAA/42OMQrCQBREBxPCJprGwsJDeAYDNkKihQbrVX/igtmV3b+1p/AY3tEoogQMON3AzOMlQIxxxmzV3jMV5qgqRdYlAAYBRFkuF4VxDAynAeJnzUm2Pb3eI0RZY7zmucArAuHmbBhhRcQC6Qe7kg0hrUmTVYeZtI2xLWx9IStZGf3+/lihoyB2HYXRLf8q4B+FSQe+Nb4+aXKuz6VnDjwANM3L1jYBAAA=
+20_chance: 20.0
+'21':
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §2Epic Helmet
+    lore:
+    - '§eDurability: 364/364'
+    ItemFlags:
+    - HIDE_ATTRIBUTES
+    - HIDE_UNBREAKABLE
+    Unbreakable: true
+    internal: H4sIAAAAAAAA/42OQQrCMBREB1tKWi2IC4/hDQQLbhSrC+0Bov22AZNI8nsLj+MBrSJKwYKzG5h5vASIMcmYnTo2TLkt1VmR8wmAQQBRFKtlbj0Dw3GA+Fk3JNs+MvMIUaZtY3gh8IpAuL9YRliTLAXSD3YrNSGtyJBTp5l02roWtruSk6yseX9/rNBREOuuwv32VcA/CtMO/GCbqjbkfZ9Lzxx4AL8PLfk2AQAA
+    color:
+      ==: Color
+      RED: 254
+      BLUE: 61
+      GREEN: 216
+21_chance: 20.0

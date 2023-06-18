@@ -1,0 +1,1078 @@
+[00:50:47] [Craft Scheduler Thread - 119/INFO]: [Vault] Checking for Updates ... 
+[00:50:47] [Craft Scheduler Thread - 119/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[00:50:47] [Craft Scheduler Thread - 119/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[06:50:57] [Craft Scheduler Thread - 237/INFO]: [Vault] Checking for Updates ... 
+[06:50:57] [Craft Scheduler Thread - 237/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[06:50:57] [Craft Scheduler Thread - 237/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[10:38:42] [Server thread/INFO]: [UltraMCItems] Disabling UltraMCItems v1.0
+[10:38:43] [Server thread/INFO]: [UltraMCItems] Enabling UltraMCItems v1.0
+[10:38:43] [Server thread/INFO]: [PlugMan] UltraMCItems has been reloaded.
+[10:40:05] [User Authenticator #2/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[10:40:05] [Server thread/INFO]: dito[/94.43.190.178:49479] logged in with entity id 803 at ([world]205.5337576594496, 63.0, 244.3621900451517)
+[10:40:13] [Server thread/INFO]: dito issued server command: /summon creeper
+[10:40:13] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:16] [Server thread/INFO]: dito issued server command: /heal
+[10:40:18] [Server thread/INFO]: dito issued server command: /summon zombie
+[10:40:18] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:24] [Server thread/INFO]: dito issued server command: /summon zombie
+[10:40:24] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:29] [Server thread/INFO]: dito issued server command: /heal
+[10:40:31] [Server thread/INFO]: dito issued server command: /summon creeper
+[10:40:31] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:33] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[10:40:35] [Server thread/INFO]: dito issued server command: /summon creeper
+[10:40:35] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:37] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[10:40:37] [Server thread/INFO]: dito issued server command: /gms
+[10:40:39] [Server thread/INFO]: dito issued server command: /summon creeper
+[10:40:39] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:41] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[10:40:41] [Server thread/INFO]: dito issued server command: /gmc
+[10:40:42] [Server thread/INFO]: dito issued server command: /summon creeper
+[10:40:42] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:45] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[10:40:48] [Server thread/INFO]: dito issued server command: /summon creeper
+[10:40:48] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:40:51] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[10:40:53] [Server thread/INFO]: dito lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[10:42:11] [User Authenticator #3/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[10:42:11] [Server thread/INFO]: dito[/94.43.190.178:52159] logged in with entity id 935 at ([world]225.32988654861327, 67.09402799879341, 260.5198184589746)
+[10:42:15] [Server thread/INFO]: dito issued server command: /summon creeper
+[10:42:15] [Server thread/INFO]: [dito: Object successfully summoned]
+[10:42:18] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[10:42:24] [Server thread/INFO]: dito lost connection: Disconnected
+[11:24:38] [User Authenticator #4/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[11:24:38] [Server thread/INFO]: dito[/94.43.190.178:36525] logged in with entity id 1004 at ([world]232.69999998807907, 67.0, 274.69999998807907)
+[11:24:40] [Server thread/INFO]: dito issued server command: /zh
+[11:24:42] [Server thread/INFO]: dito issued server command: /zh
+[11:24:48] [Server thread/INFO]: dito issued server command: /zh here
+[11:25:02] [Server thread/INFO]: dito issued server command: /summon creeper
+[11:25:02] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:25:02] [Server thread/INFO]: dito issued server command: /gms
+[11:25:07] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:25:10] [Server thread/INFO]: dito issued server command: /summon creeper
+[11:25:10] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:25:14] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:25:16] [Server thread/INFO]: dito issued server command: /summon creeper
+[11:25:16] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:25:19] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:25:21] [Server thread/INFO]: dito issued server command: /summon creeper
+[11:25:21] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:25:22] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:25:24] [Server thread/INFO]: dito issued server command: /summon creeper
+[11:25:24] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:25:27] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:25:28] [Server thread/INFO]: dito issued server command: /summon creeper
+[11:25:28] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:25:31] [Server thread/WARN]: [UltraMCItems] Task #694 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:55) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:25:33] [Server thread/INFO]: dito issued server command: /summon horse
+[11:25:33] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:25:37] [Server thread/INFO]: dito issued server command: /spawn
+[11:25:40] [Server thread/INFO]: dito issued server command: /back
+[11:25:45] [Server thread/INFO]: dito issued server command: /pvpwarp pvp
+[11:25:51] [Server thread/INFO]: dito issued server command: /pvpwarp pvp --force
+[11:25:53] [Server thread/INFO]: dito issued server command: /pvpwarp pvp --force
+[11:25:56] [Server thread/INFO]: dito issued server command: /pvpwarp pvp dito --force
+[11:26:05] [Server thread/INFO]: dito issued server command: /i diamodnhelmet
+[11:26:07] [Server thread/INFO]: dito issued server command: /i diamondhelmet
+[11:26:11] [Server thread/INFO]: dito issued server command: /pvpwarp pvp dito --force
+[11:26:14] [Server thread/INFO]: dito issued server command: /pvpwarp pvp
+[11:26:18] [Server thread/INFO]: dito issued server command: /pvpwarp pvp
+[11:26:21] [Server thread/INFO]: dito issued server command: /hub
+[11:26:25] [Server thread/INFO]: dito issued server command: /spawn
+[11:26:28] [Server thread/INFO]: dito issued server command: /clear
+[11:26:32] [Server thread/INFO]: dito issued server command: /mv tp world
+[11:26:34] [Server thread/INFO]: dito issued server command: /night
+[11:26:36] [Server thread/INFO]: dito issued server command: /summon zombie
+[11:26:36] [Server thread/INFO]: [dito: Object successfully summoned]
+[11:26:37] [Server thread/INFO]: dito issued server command: /gmc
+[11:26:41] [Server thread/INFO]: dito issued server command: /effect @p
+[11:26:47] [Server thread/INFO]: dito issued server command: /effect @p minecraft:resistance 255 255
+[11:26:47] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to dito for 255 seconds]
+[11:26:52] [Server thread/INFO]: dito issued server command: /effect @e minecraft:resistance 255 255
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to dito for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Enderman for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Squid for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '31dab0dc-76aa-4e2d-b44b-6548c127cb31' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'edf50066-ddf0-473c-b82c-d92815e4e07d' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Horse for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '509fc05a-af00-4b88-ad11-ed68e8566018' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '0c3a897f-dc21-47f0-b26d-c43c8159edd6' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'eeebba50-7f1e-4f19-b974-fadefa8f6b03' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '6a00e616-b187-41c6-8fe6-4c6de91265e1' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '3266109e-31f9-4c08-b375-20603f24289c' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '53e6607a-a6bd-4adb-85d1-d10df574a498' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '68461285-0e70-4dbe-8395-574bf59451af' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Squid for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '18a6608f-b25b-46d5-b488-6f614032511f' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'ad7d1666-7baa-4b62-9c05-bfe4309545fa' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '216eb252-e16d-44d7-b029-e2866beb6f76' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'c58f471f-5200-41ba-9a53-10f279518f05' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '80808bd2-4d96-4ce9-9332-97cb249f1bd5' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '40e59ec8-d628-41ab-96e7-455ff4e723bd' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '6b679677-7bf1-454a-8c36-9be5240898c2' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'bc3c356d-c1ca-4670-aa57-2a027e0161c4' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '79e1a4ac-b28a-44fb-82c7-23d5e328f9f7' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '0e771f8e-f78e-4e15-a63a-4cbc284aee73' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'ed61d84f-59e4-450a-8703-5141801a060c' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '7cd15839-510f-4d06-9ad4-75555697c494' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '147d992f-7a48-43f4-94bc-3e09dc3d8e9a' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'eab17aed-c660-4aea-aece-010a6bd65af2' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '878c848e-9e87-40bf-ac49-b24c65b3fe10' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '5941f487-4204-40e5-8d3c-2822d52c7dab' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '26cfc452-e6bc-4a01-878d-d6b8677c8c22' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '6d0f2b7d-390c-403f-b56d-924e2c49c3fb' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'd6ea4670-a56c-426d-abea-80b7368c1852' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Chicken for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Chicken for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Rabbit for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Rabbit for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie Villager for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '0386efe5-9de4-46e0-bead-886b2c209e36' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'f7b452b1-ea71-4bb6-bd6b-d0e769346e1b' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'ff117a1c-8278-416b-b69f-2db2a5229f0d' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'fd9ac102-14f2-40a8-9ced-2fa188194f6a' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Pig for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'e339d5e6-245f-4c43-a215-ecb6793d248d' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '916596b1-7002-4dbd-901f-79e86d7f34d6' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '746656bb-155e-4ad1-a083-1a82b0f9aeb2' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '141e9bfd-59ce-4240-9f11-2addc5808efd' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '36eaf825-d127-4560-b339-ba0bed188113' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'b84856a7-9d1d-488e-9a21-71bc13b77146' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Chicken for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie Villager for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '1a0aef4a-dd7b-4bcd-bc11-23d10bc75509' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'a92c04c8-d8bd-4e1a-8cfc-45710711ee07' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Witch for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '678adea2-466f-4a80-bf00-db79cb5232df' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Entity '74c098fb-68ec-4c4f-8bc4-c32fb4143d0f' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity 'c5bd4ab3-41d9-4b4d-903d-c2c0784645c1' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:52] [Server thread/INFO]: [dito: Entity '9fa5fe26-d8b0-433c-b90f-d0a64f6faa01' cannot be found]
+[11:26:52] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Chicken for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Chicken for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Chicken for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Бренди (/brandy) стоимость 500$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Вино (/wine) стоимость 500$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Яшка (/aquaregia) стоимость 440$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Сакэ (/sake) стоимость 440$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Текила (/tequila) стоимость 400$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Шампанское (/champagne) стоимость 300$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Пивасик (/beer) стоимость 240$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Кока-кола (/cocacola) стоимость 200$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Кофе (/coffee) стоимость 150$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Теплый Чай (/tea) стоимость 140$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Снять все эффекты (/milk) стоимость 30$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Водка (/vodka) стоимость 3000$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Энергетик  (/monsterdrink) стоимость 1000$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Самбука (/sambuca) стоимость 800$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Абсент  (/absynth) стоимость 600$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Бренди (/brandy) стоимость 500$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Вино (/wine) стоимость 500$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Яшка (/aquaregia) стоимость 440$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Сакэ (/sake) стоимость 440$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Текила (/tequila) стоимость 400$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Шампанское (/champagne) стоимость 300$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Пивасик (/beer) стоимость 240$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Кока-кола (/cocacola) стоимость 200$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Кофе (/coffee) стоимость 150$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Теплый Чай (/tea) стоимость 140$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Снять все эффекты (/milk) стоимость 30$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Водка (/vodka) стоимость 3000$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Энергетик  (/monsterdrink) стоимость 1000$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Самбука (/sambuca) стоимость 800$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Абсент  (/absynth) стоимость 600$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Напитки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Тут более 15 напитков, они дают for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to тебе любой эффект, даже водка есть :) for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Подробнее /drinks for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Напитки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Тут более 15 напитков, они дают for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to тебе любой эффект, даже водка есть :) for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Подробнее /drinks for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Вот такие бабуты и доступны for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Они издают различные звуки :) for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Батуты for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Вот такие бабуты и доступны for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Они издают различные звуки :) for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Батуты for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /top me - Ваша статистика for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /help - Помощь по серверу for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /jobs - Работы на сервере for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /rules - Правила сервера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /shop - Онлайн магазин for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /menu - Меню сервера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /drinks - Напитки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /marry - Свадьбы for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /amenu - Навыки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /clan - Кланы for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Основные команды для игроков: for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /mail send - отправить сообщение, тому кто оффлайн for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /chairs off - вы не будете садиться на ступеньки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /craftheads - Купить головы, их около 100 штук for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /chairs on - вы будете садиться на ступеньки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /report - Зарепортить донатера-нарущителя for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /prize - Получить Ежедневный кейс for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /back - вернуться на место смерти for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Лежать: /lay ; Сидеть: /sit for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /skin ник - Брать скин игрока for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /tpr - Тп на случайную точку for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /top - Топы игроков сервера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /ah - Купить/продать вещь for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /top me - Ваша статистика for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /help - Помощь по серверу for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /jobs - Работы на сервере for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /rules - Правила сервера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /shop - Онлайн магазин for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /menu - Меню сервера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /drinks - Напитки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /marry - Свадьбы for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /amenu - Навыки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /clan - Кланы for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Основные команды для игроков: for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /mail send - отправить сообщение, тому кто оффлайн for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /chairs off - вы не будете садиться на ступеньки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /craftheads - Купить головы, их около 100 штук for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /chairs on - вы будете садиться на ступеньки for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /report - Зарепортить донатера-нарущителя for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /prize - Получить Ежедневный кейс for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /back - вернуться на место смерти for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Лежать: /lay ; Сидеть: /sit for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /skin ник - Брать скин игрока for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /tpr - Тп на случайную точку for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /top - Топы игроков сервера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to /ah - Купить/продать вещь for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Назад в лобби for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Назад в лобби for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Варп /warp parkyr for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Он случайно генерируется для каждого игрока! for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Прыгайте на плиту, и попробуй особенный паркур for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Варп /warp parkyr for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Он случайно генерируется для каждого игрока! for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Прыгайте на плиту, и попробуй особенный паркур for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Привет, gtfobae_twich! for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Рады видеть тебя на сервере NexusCraft for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Команда /help, покажет вам все for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to доступные команды на этом сервере for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Сейчас на сервере онлайн: 187. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Тп на случайную точку: /tpr for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Купить/Продать вещь: /ah for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Зарабатывай деньги: /jobs for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Прокачивай навыки: /amenu for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Привет, gtfobae_twich! for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Рады видеть тебя на сервере NexusCraft for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Команда /help, покажет вам все for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to доступные команды на этом сервере for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Сейчас на сервере онлайн: 187. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Тп на случайную точку: /tpr for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Купить/Продать вещь: /ah for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Зарабатывай деньги: /jobs for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Прокачивай навыки: /amenu for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Топ киллеров for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Топ 3 самых лучших пвпешера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Попасть сюда очень даже трудно! for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Подробнее /pvp for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Топ киллеров for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Топ 3 самых лучших пвпешера for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Попасть сюда очень даже трудно! for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Подробнее /pvp for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to ------ТОП БОГАЧЕЙ------ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to werds - 7099421$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to _dralmazgold_ - 1384643$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to smart - 1239852$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to gold_master - 1195492$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to nekohero - 1194117$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to yt_ignore_yt - 1053825$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to goldik - 976257$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to vadimstrange - 944546$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to 19275 - 942470$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to larsmarc - 922196$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Обновляется каждую минуту for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to ------ТОП БОГАЧЕЙ------ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to werds - 7099421$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to _dralmazgold_ - 1384643$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to smart - 1239852$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to gold_master - 1195492$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to nekohero - 1194117$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to yt_ignore_yt - 1053825$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to goldik - 976257$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to vadimstrange - 944546$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to 19275 - 942470$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to larsmarc - 922196$ for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Обновляется каждую минуту for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Cow for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Кейс с эффектами for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Ключ - 5 руб/шт. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Доступные эффекты /trails for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Информация о кейсах: /help case for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Покупка на сайте nex-craft.ru for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Ключ для кейса с привилегиями   10 руб/шт. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Ключ для кейса с деньгами и эффектами   5 руб/шт. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Снятие временного бана 100 руб. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Снятие вечного бана 500 руб. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Информация о донате: /donat for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Донат покупать на сайте: nex-craft.ru for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Донат услуги NexusCraft for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ВИП   16   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ПРЕМИУМ   32   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   КРЕАТИВ   56   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   МОДЕРАТОР   64   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   АДМИН   88   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   С-АДМИН   176   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   УЛЬТРА   264   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ОСНОВАТЕЛЬ   352   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ВЛАДЕЛЕЦ   520   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   БОСС   880   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   КОРОЛЬ   1320   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ДИРЕКТОР   2200   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ПРЕЗИДЕНТ   8000   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Ключ для кейса с привилегиями   10 руб/шт. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Ключ для кейса с деньгами и эффектами   5 руб/шт. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Снятие временного бана 100 руб. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Снятие вечного бана 500 руб. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Информация о донате: /donat for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Донат покупать на сайте: nex-craft.ru for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Донат услуги NexusCraft for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Armor Stand for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ВИП   16   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ПРЕМИУМ   32   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   КРЕАТИВ   56   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   МОДЕРАТОР   64   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   АДМИН   88   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   С-АДМИН   176   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   УЛЬТРА   264   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ОСНОВАТЕЛЬ   352   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ВЛАДЕЛЕЦ   520   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   БОСС   880   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   КОРОЛЬ   1320   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ДИРЕКТОР   2200   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to   ПРЕЗИДЕНТ   8000   руб/навсегда for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Кейс с деньгами for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Ключ - 5 руб/шт. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Информация о кейсах: /help case for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Покупка на сайте nex-craft.ru for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Кейс с привилегиями for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Ключ - 10 руб/шт. for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Информация о кейсах: /help case for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Покупка на сайте nex-craft.ru for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Топ кланов for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Тут самые лучшие кланы на сервере, for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Смотри на кого равняться надо ;) for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Подробнее /clan for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Enderman for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Magma Cube for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Creeper for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Skeleton for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Sheep for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Spider for 255 seconds]
+[11:26:53] [Server thread/INFO]: [dito: Given Resistance (ID 11) * 255 to Zombie for 255 seconds]
+[11:26:56] [Server thread/INFO]: dito issued server command: /umc poisonsword
+[11:27:22] [Server thread/INFO]: dito issued server command: /i string
+[11:27:24] [Server thread/INFO]: dito issued server command: /i leash
+[11:27:28] [Server thread/INFO]: dito issued server command: /i fishinrod
+[11:27:30] [Server thread/INFO]: dito issued server command: /i fishingrod
+[11:27:44] [Server thread/INFO]: dito issued server command: /gm
+[11:27:47] [Server thread/INFO]: dito issued server command: /gms
+[11:28:21] [Server thread/INFO]: dito issued server command: /umc endershield
+[11:28:31] [Server thread/INFO]: dito issued server command: /spawn
+[11:28:34] [Server thread/INFO]: dito issued server command: /clear
+[11:28:35] [Server thread/INFO]: dito issued server command: /clear
+[11:28:39] [Server thread/INFO]: dito issued server command: /gmc
+[11:28:58] [Server thread/INFO]: dito issued server command: /i sign
+[11:29:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_12_R1! Trying to find NMS support
+[11:29:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_12_R1' loaded!
+[11:29:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[11:29:10] [Thread-287/WARN]: [NBTAPI] [NBTAPI] The NBT-API located at 'package shaded.de.tr7zw.changeme.nbtapi' seems to be outdated!
+[11:29:10] [Thread-287/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.11.1' Newest Version: 2.11.3'
+[11:29:10] [Thread-287/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[11:29:21] [Craft Scheduler Thread - 339/INFO]: [ChestShop] dito created a shop - 64 Spectral Arrow - B 1000 - at [survivalspawn] 95, 106, 72
+[11:29:47] [Craft Scheduler Thread - 339/INFO]: [ChestShop] dito created a shop - 1 Spectral Arrow - B 1000 - at [survivalspawn] 93, 106, 72
+[11:29:53] [Server thread/INFO]: dito issued server command: /umc spectral
+[11:29:55] [Server thread/INFO]: dito issued server command: /umc spectralarrow
+[11:30:20] [Server thread/INFO]: dito lost connection: Disconnected
+[11:32:27] [User Authenticator #5/INFO]: UUID of player dollmithan is 2174c987-6bef-38aa-a6c5-6ea37822f297
+[11:32:27] [Server thread/INFO]: dollmithan[/94.43.190.178:42633] logged in with entity id 14042 at ([survivalspawn]104.39103410230302, 106.0, 76.28633507480671)
+[11:32:38] [Server thread/INFO]: dollmithan issued server command: /bal
+[11:33:04] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give dollmithan 12030
+[11:33:04] [Server thread/INFO]: 12,030$ added to dollmithan account. New balance: 12,030$
+[11:33:29] [Server thread/INFO]: [GUIPlus] You opened the GUI for dollmithan
+[11:33:30] [Server thread/INFO]: [GUIPlus] You opened the GUI for dollmithan
+[11:33:46] [Server thread/INFO]: dollmithan lost connection: Disconnected
+[12:51:07] [Craft Scheduler Thread - 362/INFO]: [Vault] Checking for Updates ... 
+[12:51:07] [Craft Scheduler Thread - 362/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[12:51:07] [Craft Scheduler Thread - 362/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[13:12:13] [Server thread/INFO]: [UltraMCItems] Disabling UltraMCItems v1.0
+[13:12:13] [Server thread/INFO]: [UltraMCItems] Enabling UltraMCItems v1.0
+[13:12:13] [Server thread/INFO]: [PlugMan] UltraMCItems has been reloaded.
+[13:13:08] [User Authenticator #6/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:13:08] [Server thread/INFO]: dito[/94.43.190.178:33579] logged in with entity id 22349 at ([survivalspawn]94.87294762240533, 106.0, 74.13498273540186)
+[13:13:46] [Server thread/INFO]: dito lost connection: Disconnected
+[13:13:50] [User Authenticator #6/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:13:50] [Server thread/INFO]: dito[/94.43.190.178:46155] logged in with entity id 26497 at ([survivalspawn]94.87294762240533, 106.0, 74.13498273540186)
+[13:13:55] [Server thread/INFO]: dito issued server command: /plugman reload ultramcitems
+[13:13:55] [Server thread/INFO]: [UltraMCItems] Disabling UltraMCItems v1.0
+[13:13:56] [Server thread/INFO]: [UltraMCItems] Enabling UltraMCItems v1.0
+[13:14:06] [Server thread/INFO]: dito issued server command: /craft
+[13:14:08] [Server thread/INFO]: dito issued server command: /i glowsotne
+[13:14:10] [Server thread/INFO]: dito issued server command: /i glowstone
+[13:14:11] [Server thread/INFO]: dito issued server command: /craft
+[13:14:29] [Server thread/INFO]: dito issued server command: /umc spectralarrow
+[13:14:30] [Server thread/INFO]: dito issued server command: /craft
+[13:14:47] [Server thread/INFO]: dito issued server command: /i glowstonedust
+[13:14:48] [Server thread/INFO]: dito issued server command: /craft
+[13:15:02] [Server thread/INFO]: dito lost connection: Disconnected
+[13:22:53] [User Authenticator #7/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:22:53] [Server thread/INFO]: dito[/94.43.190.178:58693] logged in with entity id 34135 at ([survivalspawn]98.97195117638141, 104.60491494129195, 81.41712954207819)
+[13:23:06] [Server thread/INFO]: dito issued server command: /plugman reload ultramcitems
+[13:23:06] [Server thread/INFO]: [UltraMCItems] Disabling UltraMCItems v1.0
+[13:23:07] [Server thread/INFO]: [UltraMCItems] Enabling UltraMCItems v1.0
+[13:23:09] [Server thread/INFO]: dito issued server command: /umc epicleather
+[13:23:09] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'umc' in plugin UltraMCItems v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:152) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:685) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1492) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1297) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:5) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:14) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:850) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at dev.dollmithan.commands.UmcCommand.onCommand(UmcCommand.java:142) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[patched_1.12.2.jar:git-Paper-1620]
+	... 15 more
+[13:23:15] [Server thread/INFO]: dito lost connection: Disconnected
+[13:27:04] [Server thread/INFO]: [UltraMCItems] Disabling UltraMCItems v1.0
+[13:27:04] [Server thread/INFO]: [UltraMCItems] Enabling UltraMCItems v1.0
+[13:27:04] [Server thread/INFO]: [PlugMan] UltraMCItems has been reloaded.
+[13:27:47] [User Authenticator #8/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:27:47] [Server thread/INFO]: dito[/94.43.190.178:40717] logged in with entity id 36375 at ([survivalspawn]96.32485914935164, 106.0, 77.80203136900117)
+[13:27:53] [Server thread/INFO]: dito issued server command: /plugman reload ultramcitems
+[13:27:53] [Server thread/INFO]: [UltraMCItems] Disabling UltraMCItems v1.0
+[13:27:53] [Server thread/INFO]: [UltraMCItems] Enabling UltraMCItems v1.0
+[13:27:57] [Server thread/INFO]: dito issued server command: /umc epicleather
+[13:27:59] [Server thread/INFO]: dito issued server command: /umc leather
+[13:28:02] [Server thread/INFO]: dito issued server command: /umc epicleather 1
+[13:28:03] [Server thread/INFO]: dito issued server command: /umc epicleather
+[13:28:16] [Server thread/INFO]: dito issued server command: /umc epicleather 100
+[13:28:20] [Server thread/INFO]: dito issued server command: /umc epicleather 10000
+[13:28:36] [Server thread/INFO]: dito issued server command: /craft
+[13:28:51] [Server thread/INFO]: dito issued server command: /umc spectralarrow
+[13:28:55] [Server thread/INFO]: dito issued server command: /craft
+[13:29:09] [Server thread/INFO]: dito lost connection: Disconnected
+[14:05:36] [User Authenticator #9/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[14:05:36] [Server thread/INFO]: dito[/94.43.190.178:47443] logged in with entity id 44694 at ([survivalspawn]99.4842963568104, 107.66502296727288, 76.8557881202959)
+[14:05:39] [Server thread/INFO]: dito issued server command: /clear
+[14:05:46] [Server thread/INFO]: dito issued server command: /kit
+[14:05:48] [Server thread/INFO]: dito issued server command: /kit pvp
+[14:05:50] [Server thread/INFO]: dito issued server command: /clear
+[14:06:00] [Server thread/INFO]: dito issued server command: /uk deletekit pvp
+[14:06:04] [Server thread/INFO]: dito issued server command: /mv tp home
+[14:06:06] [Server thread/INFO]: dito issued server command: /home
+[14:06:12] [User Authenticator #9/INFO]: UUID of player Elion is 029f4687-09b6-37c8-906a-0d1bc5c47739
+[14:06:12] [Server thread/INFO]: Elion[/95.104.29.101:42257] logged in with entity id 50085 at ([survivalspawn]5.210145768173973, 4.0, -309.84804969862)
+[14:06:19] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito axe
+[14:06:35] [Server thread/INFO]: Elion issued server command: /gmc
+[14:06:38] [Server thread/INFO]: dito issued server command: /umc axoca
+[14:06:40] [Server thread/INFO]: dito issued server command: /umc xaoca
+[14:06:44] [Server thread/INFO]: dito issued server command: /enchant sharpness 5
+[14:06:47] [Server thread/INFO]: dito issued server command: /enchant fireaspect 2
+[14:07:04] [Server thread/INFO]: dito issued server command: /recipes
+[14:07:09] [Server thread/INFO]: dito issued server command: /i chainmailhelmet
+[14:07:10] [Server thread/INFO]: Elion issued server command: /pvpwarp pvp
+[14:07:13] [Server thread/INFO]: dito issued server command: /gui edit recipes
+[14:07:15] [Async Chat Thread - #0/INFO]: En (Moderator) Elion ok
+[14:07:20] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito ./recipes
+[14:07:21] [Server thread/INFO]: dito issued server command: /recipes
+[14:07:22] [Server thread/INFO]: Elion issued server command: /recipes
+[14:07:25] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito mase icraftebodes iqneba zmamni
+[14:07:31] [Async Chat Thread - #0/INFO]: En (Moderator) Elion leather
+[14:07:33] [Async Chat Thread - #0/INFO]: En (Moderator) Elion saidan ijmeva
+[14:07:33] [Async Chat Thread - #0/INFO]: En (Moderator) Elion ;d
+[14:07:37] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito idk ;d;dd
+[14:07:41] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito davamteb magis recepts an rame mob
+[14:07:44] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito mara mob kleobaa recepti jobia
+[14:07:44] [Async Chat Thread - #0/INFO]: En (Moderator) Elion magas rame craft movufiqrot rame
+[14:07:47] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito xo
+[14:07:51] [Server thread/INFO]: dito issued server command: /pvpwarp pvp
+[14:07:54] [Server thread/INFO]: dito issued server command: /umc superspectral
+[14:07:55] [Server thread/INFO]: Elion issued server command: /gms
+[14:07:55] [Server thread/INFO]: dito issued server command: /umc superspectralarrow
+[14:07:56] [Server thread/INFO]: dito issued server command: /gms
+[14:08:04] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito a bicho
+[14:08:05] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito naxe ra ganaxo
+[14:08:06] [Server thread/INFO]: dito issued server command: /mv tp world
+[14:08:08] [Server thread/INFO]: dito issued server command: /summon creeper
+[14:08:08] [Server thread/INFO]: [dito: Object successfully summoned]
+[14:08:10] [Server thread/INFO]: dito issued server command: /s el
+[14:08:14] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito vai
+[14:08:17] [Server thread/INFO]: dito issued server command: /summon creeper
+[14:08:17] [Server thread/INFO]: [dito: Object successfully summoned]
+[14:08:19] [Server thread/WARN]: [UltraMCItems] Task #1576 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:62) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[14:08:20] [Server thread/INFO]: dito issued server command: /summon creeper
+[14:08:20] [Server thread/INFO]: [dito: Object successfully summoned]
+[14:08:21] [Async Chat Thread - #0/INFO]: En (Moderator) Elion ;dd
+[14:08:24] [Server thread/INFO]: dito issued server command: /summon creeper
+[14:08:24] [Server thread/INFO]: [dito: Object successfully summoned]
+[14:08:25] [Server thread/WARN]: [UltraMCItems] Task #1576 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:62) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[14:08:27] [Server thread/INFO]: dito issued server command: /summon creeper
+[14:08:27] [Server thread/INFO]: [dito: Object successfully summoned]
+[14:08:27] [Async Chat Thread - #0/INFO]: En (Moderator) Elion teslia
+[14:08:28] [Server thread/WARN]: [UltraMCItems] Task #1576 for UltraMCItems v1.0 generated an exception
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList.forEach(ArrayList.java:1513) ~[?:?]
+	at dev.dollmithan.main.UltraMCItems$1.run(UltraMCItems.java:62) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:840) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[14:08:30] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito tesli
+[14:08:32] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito imena
+[14:08:33] [Server thread/INFO]: dito issued server command: /pvpwarp pvp
+[14:08:35] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito vso wmaod;
+[14:08:39] [Server thread/INFO]: Elion issued server command: /pvpwarp pvp
+[14:09:01] [Async Chat Thread - #0/INFO]: En (Admin) [sds] dito spectral gesrole ;d;d
+[14:16:16] [Server thread/INFO]: dito issued server command: /killfeed
+[14:17:30] [Server thread/INFO]: [PvpWarps] [&eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill.]
+[14:17:30] [Server thread/INFO]: [UltraMCItems] Executing headless 5;
+[14:17:34] [Async Chat Thread - #1/INFO]: En (Moderator) Elion AURAYLEOBAAA
+[14:17:36] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito :DDDDDd
+[14:17:37] [Server thread/INFO]: dito issued server command: /clear
+[14:17:38] [Async Chat Thread - #1/INFO]: En (Moderator) Elion HP ARCHANS DA GIRISKAV
+[14:17:42] [Server thread/INFO]: dito issued server command: /clear
+[14:17:42] [Server thread/INFO]: Elion issued server command: /gmc
+[14:17:42] [Server thread/INFO]: dito issued server command: /home
+[14:17:44] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito chemtan chans
+[14:17:55] [Async Chat Thread - #1/INFO]: En (Moderator) Elion shen
+[14:17:56] [Server thread/INFO]: dito issued server command: /gmc
+[14:17:57] [Async Chat Thread - #1/INFO]: En (Moderator) Elion labymoditxar
+[14:17:58] [Async Chat Thread - #1/INFO]: En (Moderator) Elion yleo
+[14:18:08] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito ;d;d
+[14:18:22] [Server thread/INFO]: dito issued server command: /umc xaoca
+[14:18:25] [Server thread/INFO]: dito issued server command: /enchant sharpness 5
+[14:18:29] [Server thread/INFO]: dito issued server command: /enchant fireaspect 2
+[14:18:36] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito sh8 gavaswore
+[14:18:39] [Server thread/INFO]: dito issued server command: /umc poisonsword
+[14:18:46] [Server thread/INFO]: dito issued server command: /pvpwarp pvp
+[14:18:48] [Server thread/INFO]: dito issued server command: /gms
+[14:18:48] [Server thread/INFO]: Elion issued server command: /umc poisonsword
+[14:18:55] [Server thread/INFO]: Elion issued server command: /pvpwarp pvp
+[14:18:55] [Server thread/INFO]: dito issued server command: /s el
+[14:18:57] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito ganaxeb sh8s
+[14:18:58] [Async Chat Thread - #1/INFO]: En (Moderator) Elion modi aba
+[14:19:00] [Server thread/INFO]: Elion issued server command: /gms
+[14:19:06] [Async Chat Thread - #1/INFO]: En (Moderator) Elion xokaia
+[14:19:37] [Async Chat Thread - #1/INFO]: En (Moderator) Elion rasmirtyav shigxoargaq
+[14:19:52] [Async Chat Thread - #1/INFO]: En (Moderator) Elion oeeeeeeeee
+[14:19:53] [Server thread/INFO]: Elion issued server command: /gmc
+[14:19:53] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito ra
+[14:19:55] [Async Chat Thread - #1/INFO]: En (Moderator) Elion rasmirtkav
+[14:19:57] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito xaocas
+[14:19:59] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito kelxar?
+[14:20:00] [Async Chat Thread - #1/INFO]: En (Moderator) Elion rayleobaa
+[14:20:06] [Async Chat Thread - #1/INFO]: En (Moderator) Elion vervmodzraob
+[14:20:07] [Server thread/INFO]: Elion issued server command: /gms
+[14:20:08] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito wtf me ra mchirs ;d
+[14:20:10] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito ramdenixania mirtyam
+[14:20:14] [Async Chat Thread - #1/INFO]: En (Moderator) Elion ;d
+[14:20:15] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito shexede ramdenixania madevs;d;d;d
+[14:20:17] [Async Chat Thread - #1/INFO]: En (Moderator) Elion shigxoaraq
+[14:20:23] [Async Chat Thread - #1/INFO]: En (Moderator) Elion ddddddddddddd
+[14:20:37] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito amas shigxoaraaq:DDDD
+[14:20:49] [Async Chat Thread - #1/INFO]: En (Admin) [sds] dito kai gavasworeb amas da iqamde sh8 argamoiyeno
+[14:20:54] [Server thread/INFO]: Elion lost connection: Disconnected
+[14:20:54] [Server thread/INFO]: dito lost connection: Disconnected
+[14:20:55] [User Authenticator #11/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[14:20:55] [User Authenticator #10/INFO]: UUID of player Elion is 029f4687-09b6-37c8-906a-0d1bc5c47739
+[14:20:55] [Server thread/INFO]: Elion[/95.104.29.101:38185] logged in with entity id 143665 at ([desteria]-134.4781548423604, 116.25220334025373, -226.33207694843364)
+[14:20:55] [Server thread/INFO]: dito[/94.43.190.178:55735] logged in with entity id 143666 at ([desteria]-135.29639415515237, 115.0, -217.49135276696438)
+[14:20:56] [Server thread/WARN]: Elion moved too quickly! 505.7391206231649,-6.252203340253729,611.0382952854095
+[14:20:56] [Server thread/WARN]: Elion moved too quickly! 505.7391206231649,-6.252203340253729,611.0382952854095
+[14:20:58] [Server thread/WARN]: Elion moved too quickly! 505.4406939189507,-6.252203340253729,611.3437036487588
+[14:24:26] [Async Chat Thread - #2/INFO]: En (Moderator) Elion aee
+[14:24:28] [Async Chat Thread - #2/INFO]: En (Admin) [sds] dito ra
+[14:24:29] [Async Chat Thread - #2/INFO]: En (Moderator) Elion 16maq
+[14:24:31] [Async Chat Thread - #2/INFO]: En (Moderator) Elion stati
+[14:24:32] [Async Chat Thread - #2/INFO]: En (Admin) [sds] dito me 15 ;d;d;
+[14:24:33] [Server thread/INFO]: Elion issued server command: /inspect dito
+[14:24:41] [Server thread/INFO]: Elion issued server command: /mmoedit Elion all 250
+[14:24:44] [Server thread/INFO]: Elion issued server command: /mmoedit dito all 250
+[14:24:51] [Async Chat Thread - #2/INFO]: En (Moderator) Elion modi
+[14:24:53] [Server thread/INFO]: Elion issued server command: /inspect dito
+[14:25:07] [Async Chat Thread - #2/INFO]: En (Moderator) Elion dagendzra
+[14:25:08] [Async Chat Thread - #2/INFO]: En (Moderator) Elion exla
+[14:25:08] [Async Chat Thread - #2/INFO]: En (Moderator) Elion :D
+[14:25:21] [Server thread/INFO]: Elion issued server command: /mctop
+[14:25:29] [Server thread/INFO]: Elion issued server command: /baltop
+[14:25:38] [Server thread/INFO]: Elion issued server command: /baltop 2
+[14:25:40] [Server thread/INFO]: Elion issued server command: /baltop 1
+[14:26:28] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito s
+[14:26:31] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito rais damendzra braat
+[14:26:33] [Async Chat Thread - #3/INFO]: En (Moderator) Elion moajvi
+[14:26:52] [Server thread/INFO]: Elion issued server command: /mmoedit Elion Unarmed 10000
+[14:27:10] [Server thread/INFO]: Elion issued server command: /gmc
+[14:27:15] [Server thread/INFO]: Elion issued server command: /gms
+[14:27:33] [Async Chat Thread - #3/INFO]: En (Moderator) Elion au
+[14:27:34] [Async Chat Thread - #3/INFO]: En (Moderator) Elion rayles
+[14:27:35] [Async Chat Thread - #3/INFO]: En (Moderator) Elion shvebi
+[14:27:36] [Async Chat Thread - #3/INFO]: En (Moderator) Elion sheyleo
+[14:27:38] [Async Chat Thread - #3/INFO]: En (Moderator) Elion male
+[14:27:54] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito jks;l;
+[14:28:23] [Async Chat Thread - #3/INFO]: En (Moderator) Elion idinaxui
+[14:28:24] [Async Chat Thread - #3/INFO]: En (Moderator) Elion dzma
+[14:28:24] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito mode
+[14:28:25] [Async Chat Thread - #3/INFO]: En (Moderator) Elion gaval
+[14:28:31] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito modebadzes
+[14:28:33] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito is unda gavaketo mere
+[14:28:33] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito packi
+[14:28:35] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito elfvsdoashi roaq
+[14:28:37] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito adre moqnda ;d
+[14:28:53] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito daica
+[14:28:54] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito health gavtisho
+[14:28:55] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito ignda?
+[14:28:56] [Async Chat Thread - #3/INFO]: En (Moderator) Elion ardagendzra xo
+[14:28:57] [Async Chat Thread - #3/INFO]: En (Moderator) Elion :D
+[14:28:57] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito mec roar michandes
+[14:29:02] [Async Chat Thread - #3/INFO]: En (Moderator) Elion ratminda
+[14:29:03] [Async Chat Thread - #3/INFO]: En (Moderator) Elion dkd
+[14:29:50] [Server thread/INFO]: [PvpWarps] [&eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill.]
+[14:29:50] [Server thread/INFO]: [UltraMCItems] Executing headless 5;
+[14:29:52] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito ez pz
+[14:29:54] [Async Chat Thread - #3/INFO]: En (Moderator) Elion ramdens
+[14:29:55] [Async Chat Thread - #3/INFO]: En (Moderator) Elion vacelsheyleo
+[14:29:56] [Async Chat Thread - #3/INFO]: En (Moderator) Elion ra ez
+[14:29:59] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito xoda ez xar
+[14:30:01] [Server thread/INFO]: Elion issued server command: /gmc
+[14:30:12] [Server thread/INFO]: Elion issued server command: /pvpwarp pvp
+[14:30:14] [Server thread/INFO]: Elion issued server command: /gms
+[14:30:17] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito bicho oriwami
+[14:30:18] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito mogklav
+[14:30:20] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito headless
+[14:30:20] [Async Chat Thread - #3/INFO]: En (Moderator) Elion ara
+[14:30:21] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito mainteresesb
+[14:30:22] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito rasizams
+[14:30:24] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito gaidzre zmani
+[14:30:26] [Async Chat Thread - #3/INFO]: En (Moderator) Elion ara
+[14:30:29] [Server thread/INFO]: [PvpWarps] [&eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill.]
+[14:30:29] [Server thread/INFO]: [UltraMCItems] Executing headless 5;
+[14:30:34] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito skeleton skulls
+[14:30:34] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito agdebs
+[14:30:36] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito shigaq amas ;d;d
+[14:30:44] [Server thread/INFO]: Elion issued server command: /pvpwarp pvp
+[14:30:44] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito kai dkd mdoi
+[14:31:19] [Server thread/INFO]: [PvpWarps] [&eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill.]
+[14:31:19] [Server thread/INFO]: [UltraMCItems] Executing headless 5;
+[14:31:24] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito dzaan martivi xar
+[14:31:24] [Async Chat Thread - #3/INFO]: En (Moderator) Elion aurayleobaaaaaaaa
+[14:31:25] [Async Chat Thread - #3/INFO]: En (Moderator) Elion vervtamashob
+[14:31:29] [Async Chat Thread - #3/INFO]: En (Moderator) Elion gushin gaganadgure
+[14:31:29] [Async Chat Thread - #3/INFO]: En (Moderator) Elion sheyleo
+[14:31:30] [Async Chat Thread - #3/INFO]: En (Moderator) Elion chaijvi
+[14:31:34] [Server thread/INFO]: Elion issued server command: /pvpwarp pvp
+[14:31:37] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito gushin sxvanairad pvpverobdi
+[14:31:37] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito axeti
+[14:31:38] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito vpvperobdi
+[14:31:43] [Async Chat Thread - #3/INFO]: En (Moderator) Elion da exla
+[14:31:44] [Async Chat Thread - #3/INFO]: En (Moderator) Elion ritixar
+[14:31:45] [Async Chat Thread - #3/INFO]: En (Moderator) Elion shiggaq?
+[14:31:48] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito sxvanairad pvpveorb
+[14:31:49] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito vpvperob
+[14:32:34] [Server thread/INFO]: [PvpWarps] [&eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill., &eNo kill.]
+[14:32:34] [Server thread/INFO]: [UltraMCItems] Executing headless 5;
+[14:32:38] [Async Chat Thread - #3/INFO]: En (Moderator) Elion augave
+[14:32:39] [Server thread/INFO]: Elion lost connection: Disconnected
+[14:32:41] [Async Chat Thread - #3/INFO]: En (Admin) [sds] dito ;ddddddddddddddddddd
+[14:32:46] [Server thread/INFO]: dito lost connection: Disconnected
+[18:51:18] [Craft Scheduler Thread - 508/INFO]: [Vault] Checking for Updates ... 
+[18:51:18] [Craft Scheduler Thread - 508/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[18:51:18] [Craft Scheduler Thread - 508/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[19:48:55] [Server thread/INFO]: [UltraMCItems] Disabling UltraMCItems v1.0
+[19:48:56] [Server thread/INFO]: [UltraMCItems] Enabling UltraMCItems v1.0
+[19:48:56] [Server thread/INFO]: [PlugMan] UltraMCItems has been reloaded.
+[19:52:09] [User Authenticator #12/WARN]: [LuckPerms] Processing login for dito took 12653ms.
+[19:52:09] [User Authenticator #12/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[19:52:20] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[19:52:23] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[19:52:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:52:23] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:55:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:55:17] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:55:19] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
+[19:55:20] [Paper Watchdog Thread/ERROR]: 	Stack:
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.UnixFileSystem.getBooleanAttributes0(Native Method)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.UnixFileSystem.hasBooleanAttributes(UnixFileSystem.java:274)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.File.exists(File.java:834)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.UserData.<init>(UserData.java:46)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.User.<init>(User.java:97)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.UserMap.load(UserMap.java:180)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.UserMap.load(UserMap.java:30)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.UserMap.getUser(UserMap.java:129)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.Essentials.getUser(Essentials.java:1064)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.perm.impl.LuckPermsHandler$CombinedCalculator.calculate(LuckPermsHandler.java:77)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.earth2me.essentials.perm.impl.LuckPermsHandler$CombinedCalculator.calculate(LuckPermsHandler.java:65)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.context.manager.ContextManager.callContextCalculator(ContextManager.java:138)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.context.manager.ContextManager.calculate(ContextManager.java:157)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.context.manager.QueryOptionsCache.supply(QueryOptionsCache.java:52)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.context.manager.QueryOptionsCache.supply(QueryOptionsCache.java:40)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.cache.ExpiringCache.get(ExpiringCache.java:64)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.context.manager.QueryOptionsCache.getQueryOptions(QueryOptionsCache.java:57)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.bukkit.inject.permissible.LuckPermsPermissible.hasPermission(LuckPermsPermissible.java:172)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:112)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		dev._2lstudios.exploitfixer.listener.PlayerLoginListener.onPlayerLogin(PlayerLoginListener.java:48)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor301.execute(Unknown Source)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.PlayerList.attemptLogin(PlayerList.java:565)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.LoginListener.b(LoginListener.java:152)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.LoginListener.e(LoginListener.java:68)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666)
+[19:55:20] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:55:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:55:23] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[19:55:24] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:55:28] [Paper Watchdog Thread/ERROR]: The server has stopped responding!
+[19:55:29] [Paper Watchdog Thread/ERROR]: Please report this to https://github.com/PaperMC/Paper/issues
+[19:55:31] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[19:55:35] [Paper Watchdog Thread/ERROR]: Paper version: git-Paper-1620 (MC: 1.12.2)
+[19:55:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:55:39] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:55:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:55:47] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:55:47] [Paper Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
+[19:55:47] [Paper Watchdog Thread/ERROR]: 	Stack:
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.String.toLowerCase(String.java:3389)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.model.PermissionHolder.processExportedPermissions(PermissionHolder.java:365)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.model.PermissionHolder.exportPermissions(PermissionHolder.java:358)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.cacheddata.HolderCachedDataManager.resolvePermissions(HolderCachedDataManager.java:79)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager.calculatePermissions(AbstractCachedDataManager.java:156)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager$$Lambda$1534/0x0000000801bc99f8.apply(Unknown Source)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.cache.LoadingMap.get(LoadingMap.java:67)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager$AbstractContainer.get(AbstractCachedDataManager.java:203)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager.getPermissionData(AbstractCachedDataManager.java:86)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		me.lucko.luckperms.bukkit.inject.permissible.LuckPermsPermissible.hasPermission(LuckPermsPermissible.java:173)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:112)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		dev._2lstudios.exploitfixer.listener.PlayerLoginListener.onPlayerLogin(PlayerLoginListener.java:48)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor301.execute(Unknown Source)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.PlayerList.attemptLogin(PlayerList.java:565)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.LoginListener.b(LoginListener.java:152)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.LoginListener.e(LoginListener.java:68)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666)
+[19:55:48] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:55:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:55:51] [Paper Watchdog Thread/ERROR]: Entire Thread Dump:

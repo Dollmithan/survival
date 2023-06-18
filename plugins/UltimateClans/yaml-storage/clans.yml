@@ -1,0 +1,43 @@
+data:
+  beff1175-f6a0-4c47-b811-f00eabf3f50b:
+    tag: sds
+    tag_raw: sds
+    desc: ''
+    leader: b06c3295-db1c-3c17-8490-d3eb84429c7a
+    verified: true
+    home:
+    - Clans::sa::survivalspawn|95.96816020516769|108.0|80.81590804941442|46.360424|-16.517021
+    creation_date: 1685462015
+    members:
+    - b06c3295-db1c-3c17-8490-d3eb84429c7a
+    online_members: ''
+    mods: []
+    rival: []
+    ally: []
+    kills: 0
+    deaths: 0
+    souls: '0'
+    kdr: 0.0
+    ff: false
+    bank: '0'
+    level: '1'
+    maxlevel: '1'
+    extra_slots: '0'
+    quest:
+      points: 100
+      finished: 0
+    member_joined: 0
+    member_left: 0
+    war_win: 0
+    war_lose: 0
+    tag_changed: 5
+    member_kicked: 0
+    extra_chest: 0
+    locked_pages_chest: []
+    settings:
+      war_invite: 1
+      ally_shared_chat: 0
+      ally_shared_home: 0
+      join_leave: 1
+      member_manager_homes: 0
+      member_manager_wars: 0

@@ -1,0 +1,327 @@
+inv:
+  size: 36
+  alias: store
+  id: store
+  title: §e§lULTRAMC STORE
+  targetPlayerOption: DISABLED
+  items:
+    '0':
+      '-9000159352063831829':
+        item:
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §7(Player)
+            lore:
+            - §7Default rank. Free!
+            - ''
+            - '§fPerks:'
+            - §e✔ 1 Home
+            - §c✘ /fly
+            - §c✘ /enderchest (/ec)
+            - §c✘ McMMO Boosters
+            - §c✘ Special kit
+            - §c✘ Flags
+            - ''
+            - '§7Duration: §epermanent'
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            - HIDE_DESTROYS
+            - HIDE_PLACED_ON
+            - HIDE_POTION_EFFECTS
+            color:
+              ==: Color
+              RED: 71
+              BLUE: 82
+              GREEN: 79
+    '1':
+      '-9036812851521583207':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '2':
+      '-6274824690167088571':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '3':
+      '-8697709118523829800':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '4':
+      '106521627619233973':
+        item:
+          type: STAINED_GLASS_PANE
+    '5':
+      '-279621723915999527':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '6':
+      '-5943013357133852552':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '7':
+      '-6141097159832505629':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '8':
+      '-3285885643313751155':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '9':
+      '2802477940107255666':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '11':
+      '4436542383813729308':
+        item:
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §e(VIP) §7(5GEL)
+            lore:
+            - §eVip §7rank! 5 GEL.
+            - ''
+            - '§fPerks:'
+            - §e✔ 3 Home
+            - §e✔ /fly
+            - §e✔ /enderchest §7(/ec)
+            - §e✔ McMMO Boosters §7(1.25x)
+            - §e✔ Special Kit §7(4 Items)
+            - §e✔ Flags §7(leaf-decay, chorus-fruit-teleport)
+            - §e✠ 5,000 coins
+            - ''
+            - '§7Duration: §e1 Month'
+            - ''
+            - §7Purchase at §ehttps://dc.ultramc.online
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            - HIDE_DESTROYS
+            - HIDE_PLACED_ON
+            - HIDE_POTION_EFFECTS
+            color:
+              ==: Color
+              RED: 254
+              BLUE: 61
+              GREEN: 216
+    '13':
+      '252365200312810133':
+        item:
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §c(Warrior) §7(7GEL)
+            lore:
+            - §cWarrior §7Rank. Made for true warriors!
+            - ''
+            - '§fPerks:'
+            - §e✔ 5 Home
+            - §e✔ /fly
+            - §e✔ /enderchest §7(/ec)
+            - §e✔ McMMO Boosters §7(2x)
+            - §e✔ Special Kit §7(4 Items)
+            - §e✔ Flags §7(Vip flags, ender-pearl-teleport, interact)
+            - §e✔ Poison Sword
+            - §e✠ 10,000 coins
+            - ''
+            - '§7Duration: §e1 Month'
+            - ''
+            - §7Purchase at §ehttps://dc.ultramc.online
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            - HIDE_DESTROYS
+            - HIDE_PLACED_ON
+            - HIDE_POTION_EFFECTS
+            color:
+              ==: Color
+              RED: 176
+              BLUE: 38
+              GREEN: 46
+    '15':
+      '-4461460146174102634':
+        item:
+          type: LEATHER_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: LEATHER_ARMOR
+            display-name: §9(Premium) §7(7GEL)
+            lore:
+            - §9Premium §7Rank. Made for farmers!
+            - ''
+            - '§fPerks:'
+            - §e✔ 5 Home
+            - §e✔ /fly
+            - §e✔ /enderchest §7(/ec)
+            - §e✔ /workbench §7(/ec)
+            - §e✔ McMMO Boosters §7(2.5x)
+            - §e✔ Special Kit §7(4 Items)
+            - §e✔ Flags §7(Warrior flags, greeting, farewell)
+            - §e✔ Fortune10 pickaxe §7(Gold)
+            - §e✠ 20,000 coins
+            - ''
+            - '§7Duration: §e1 Month'
+            - ''
+            - §7Purchase at §ehttps://dc.ultramc.online
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            - HIDE_DESTROYS
+            - HIDE_PLACED_ON
+            - HIDE_POTION_EFFECTS
+            color:
+              ==: Color
+              RED: 137
+              BLUE: 184
+              GREEN: 50
+    '17':
+      '710445503213322778':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '18':
+      '-1147062209646460086':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '21':
+      '8297453039667970245':
+        item:
+          type: DIAMOND_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §b(Ultra) §7(10GEL)
+            lore:
+            - §bUltra §7Rank. Made for champions!
+            - ''
+            - '§fPerks:'
+            - §e✔ 7 Home
+            - §e✔ /fly
+            - §e✔ /enderchest §7(/ec)
+            - §e✔ /workbench §7(/ec)
+            - §e✔ McMMO Boosters §7(5x)
+            - §e✔ Special Kit §7(6 Items)
+            - §e✔ Flags §7(Premium flags, mob-spawning, damage-animals, tnt)
+            - §e✔ Vampire axe §7(Wither effect)
+            - §e✔ Fortune10 Pickaxe §7(Gold)
+            - §e✔ Poison sword
+            - §e✠ 50,000 coins
+            - ''
+            - '§7Duration: §e1 Month'
+            - ''
+            - §7Purchase at §ehttps://dc.ultramc.online
+            enchants:
+              DAMAGE_ALL: 1
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            - HIDE_DESTROYS
+            - HIDE_PLACED_ON
+            - HIDE_POTION_EFFECTS
+    '23':
+      '-7478425699455657965':
+        item:
+          type: GOLD_HELMET
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §e«✧» §a(Sponsor) §e«✧» §7(30GEL)
+            lore:
+            - §aSponsor §7Rank. Sponsor our server!
+            - ''
+            - '§fPerks:'
+            - §e✔ 10 Home
+            - §e✔ /fly
+            - §e✔ /enderchest §7(/ec)
+            - §e✔ /workbench §7(/ec)
+            - §e✔ McMMO Boosters §7(10x)
+            - §e✔ Special Kit §7(10 Items)
+            - '§e✔ Flags:'
+            - §7(Ultra flags, creeper-explosion, enderman-grief,
+            - §7 enderman-grief, fire-spread, other-explosion)
+            - §e✔ Vampire axe §7(Wither effect)
+            - §e✔ Fortune10 Pickaxe §7(Gold)
+            - §e✔ Poison sword
+            - §e✔ Dagger (Backstab I)
+            - §e✔ 3 Epic Armors &7(Full armor)
+            - §e✔ Poison sword
+            - §e✠ 250,000 coins
+            - ''
+            - '§7Duration: §e1 Month'
+            - ''
+            - §7Purchase at §ehttps://dc.ultramc.online
+            enchants:
+              DAMAGE_ALL: 1
+            ItemFlags:
+            - HIDE_ENCHANTS
+            - HIDE_ATTRIBUTES
+            - HIDE_UNBREAKABLE
+            - HIDE_DESTROYS
+            - HIDE_PLACED_ON
+            - HIDE_POTION_EFFECTS
+    '26':
+      '-3109907268069195350':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '27':
+      '-8279656608046208714':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '28':
+      '4359225956801688992':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '29':
+      '-5474903277821944480':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '30':
+      '29865355215295711':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '31':
+      '-3511143140748868448':
+        item:
+          type: STAINED_GLASS_PANE
+    '32':
+      '9049530705839673346':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 1
+    '33':
+      '-2414522195135030747':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '34':
+      '6405019450244679651':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4
+    '35':
+      '6512777275434854630':
+        item:
+          type: STAINED_GLASS_PANE
+          damage: 4

@@ -1,0 +1,20 @@
+# Custom kits plugin made by *dito*! originally for Ultramc.
+# ultramc.online
+# 
+# 
+# {prefix} = prefix
+
+plugin_prefix: '&eUltraKits &7»'
+listkits_permission: ultrakits.kits
+reload_permission: ultrakits.reload
+createkit_permission: ultrakits.createkit
+deletekit_permission: ultrakits.deletekit
+setcooldown_permission: ultrakits.setcooldown
+setitemamount_permission: ultrakits.setitemamount
+first_join_kit: starter
+no_permission_message: '{prefix} &cNo permission.'
+empty_inv_message: '{prefix} &cYour inventory cant be empty for this command!'
+player_only_command: '{prefix} &cThis command is only for players.'
+reload_success: '{prefix} &ePlugin reloaded.'
+reload_failed: '{prefix} &cReload failed. Check the console!'
+unknown_command_message: '{prefix} &cUnknown command! Please use /uk help'

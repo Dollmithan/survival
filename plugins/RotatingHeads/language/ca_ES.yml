@@ -1,0 +1,33 @@
+prefix: '<GRADIENT:f2f2f2>RotatingHeads</GRADIENT:cfcfcf> &8| '
+help-usage: '&fUsa &7/rheads help por favor.'
+no-perms: '&fNo tienes permiso para hacer eso.'
+help:
+- <GRADIENT:f2f2f2>ROTATINGHEADS</GRADIENT:cfcfcf> <SOLID:ffffff>&oREBORN &8 | &7Ayuda!
+- '&r'
+- '&7- &f/rotatingheads help &7(Muestra el menú de ayuda)'
+- '&7- &f/rotatingheads list &7(Muestra la lista de cabezas)'
+- '&7- &f/rotatingheads create [nombre] &7(Crea una cabeza nueva)'
+- '&7- &f/rotatingheads remove [nombre] &7(Elimina una cabeza)'
+- '&7- &f/rotatingheads movehere [nombre] &7(Mueve una cabeza a tu posición)'
+- '&7- &f/rotatingheads teleport [nombre] &7(Te teletrasporta a una cabeza)'
+- '&7- &f/rotatingheads reload &7(Recarga la configuración)'
+list:
+  header:
+  - '&7Lista de cabezas:'
+  empty: '&cNo hay ninguna cabeza creada'
+  format: '&7- &f%name%'
+create:
+  successful: '&fLa cabeza &7%head% &fha sido creada exitosamente'
+  exist: '&f¡La cabeza &7%head% &fya existe!'
+remove:
+  successful: '&f¡La cabeza &7%head% &fha sido eliminada exitosamente!'
+  exist: '&f¡La cabeza &7%head% &fno existe!'
+movehere:
+  successful: '&f¡La cabeza &7%head% &fha sido movida a tu ubicación exitosamente!'
+  exist: '&f¡La cabeza &7%head% &fno existe!'
+teleport:
+  successful: '&7¡Has sido teletransportado a la cabeza &7%head%&f exitosamente!'
+  exist: '&f¡La cabeza &7%head% &fno existe!'
+reload:
+  successful: '&fLa configuración ha sido recargada exitosamente.'
+temp-head-safe: '&fNo puedes editar el encabezado temporal!'
